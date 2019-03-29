@@ -4761,7 +4761,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   padding-bottom: 150px;
   position: relative;
   z-index: 2;
-  background: url("../img/home9/shape_two.png") no-repeat scroll center 0;
+  background: url("../img/shape_two.png") no-repeat scroll center 0;
   background-size: cover;
 }
 
@@ -4784,7 +4784,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .pay_icon {
-  background: url("../img/home9/icon_shape_two.png") no-repeat scroll center 0;
+  background: url("../img/icon_shape_two.png") no-repeat scroll center 0;
   width: 110px;
   height: 103px;
   text-align: center;
@@ -5431,7 +5431,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 100px;
   left: 0;
   z-index: -1;
-  background: url("../img/home4/action_shap.png") no-repeat scroll center top;
+  background: url("../img/action_shap.png") no-repeat scroll center top;
   top: 0;
   background-size: contain;
 }
@@ -6512,7 +6512,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 85px;
   top: -82px;
   left: 0;
-  background: url("../img/home9/triangle_top.png") no-repeat;
+  background: url("../img/triangle_top.png") no-repeat;
 }
 
 .payment_clients_area .clients_bg_shape_right {
@@ -6662,7 +6662,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   height: 85px;
   top: 0px;
   left: 0;
-  background: url("../img/home9/triangle_bottom.png") no-repeat;
+  background: url("../img/triangle_bottom.png") no-repeat;
   background-size: contain;
 }
 
@@ -10797,7 +10797,7 @@ input[type=number]::-webkit-inner-spin-button {
 
 .footer_nine_area .footer_shap {
   position: absolute;
-  background: url("../img/home9/footer.png") no-repeat scroll center;
+  background: url("../img/footer.png") no-repeat scroll center;
   left: 0;
   width: 100%;
   background-size: cover;
@@ -10918,11 +10918,11 @@ input[type=number]::-webkit-inner-spin-button {
 }
 
 .footer_nine_bottom .flag_selector .flag-icon.flag-icon-us {
-  background-image: url(../img/home9/flag.png);
+  background-image: url(../img/flag.png);
 }
 
 .footer_nine_bottom .flag_selector .flag-icon.flag-icon-mx {
-  background-image: url(../img/home9/flag.png);
+  background-image: url(../img/flag.png);
 }
 
 .footer_nine_bottom .flag_selector .dropdown-menu {
