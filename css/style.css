@@ -1648,7 +1648,6 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: #fff;
-  text-transform: capitalize;
 }
 
 .header_contact_info li:before {
@@ -10966,4 +10965,10 @@ input[type=number]::-webkit-inner-spin-button {
 
 /*====================================================*/
 
-/*# sourceMappingURL=style.css.map */
+/* Custom */
+.header_area_six {
+  display: none;
+}
+.navbar_fixed .header_area_six {
+  display: block;
+}
