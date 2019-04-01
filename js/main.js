@@ -203,7 +203,7 @@
             app_screenshotSlider.owlCarousel({
                 loop:true,
                 margin:10,
-                items: 5,
+                items: 3,
                 autoplay: false,
                 smartSpeed: 2000,
                 responsiveClass:true,
@@ -220,10 +220,10 @@
                         items:2, 
                     },
                     776:{
-                        items:4, 
+                        items:2, 
                     },
                     1199:{
-                        items:5,   
+                        items:3,   
                     },
                 },
             })
