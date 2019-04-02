@@ -7882,6 +7882,11 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   margin-bottom: 30px;
 }
 
+.text_box .error {
+  color: #dc3545;
+  padding-top: 10px;
+}
+
 .text_box input[type="text"], .text_box textarea, .text_box input[type="password"] {
   font: 300 15px/60px "Poppins", sans-serif;
   color: #222d39;
