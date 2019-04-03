@@ -1,0 +1,15 @@
+.header_area_six {
+  display: none;
+}
+.navbar_fixed .header_area_six {
+  display: block;
+}
+
+/* Footer */
+.custom_footer_bottom {
+  border-top: 1px solid #e0e3ef;
+  margin-bottom: -170px;
+  margin-top: 100px;
+  
+  position: relative;
+}

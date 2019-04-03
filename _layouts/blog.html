@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+    {% include preloader.html %}
+
+    {% include header.html %}
+
+    <section class="breadcrumb_area">
+        <img class="breadcrumb_shap" src="/assets/img/banner_bg.png" alt="">
+        <div class="container">
+            <div class="breadcrumb_content text-center">
+                <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">
+                    {{page.title}}
+                </h1>
+            </div>
+        </div>
+    </section>
+    
+    <section class="blog_area sec_pad">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    {{content}}
+
+                    <ul class="list-unstyled page-numbers shop_page_number text-left d-flex justify-content-between">
+                        <li>
+                            {% for post in site.posts %}
+                                {% if prev %}
+                                    <a href="{{post.url}}" class="d-block text-left">
+                                        <span class="page-numbers d-inline-block mb-2">
+                                            <i class="ti-arrow-left"></i>
+                                        </span>
+                                        <p>{{post.title}}</p>
+                                    </a>
+                                {% endif %}
+                                {% assign prev = false %}
+                                {% if post.id == page.id %}
+                                    {% assign prev = true %}
+                                {% endif %}
+                            {% endfor %}
+                        </li>
+                        <li>
+                            {% for post in site.posts reversed %}
+                                {% if next %}
+                                    <a href="{{post.url}}" class="d-block text-right">
+                                        <span class="page-numbers d-inline-block mb-2">
+                                            <i class="ti-arrow-right"></i>
+                                        </span>
+                                        <p>{{post.title}}</p>
+                                    </a>
+                                {% break %}
+                                {% endif %}
+                                {% assign next = false %}
+                                {% if post.id == page.id %}
+                                    {% assign next = true %}
+                                {% endif %}
+                            {% endfor %}
+                        </li>
+                    </ul>
+                    
+                </div>
+
+                <div class="col-lg-4">
+                    <div class="blog-sidebar">
+                        {% include blog_recent_posts.html %}
+                    </div>
+                </div>  
+
+            </div>
+        </div>
+    </section>
+    
+    {% include footer.html %}
+    {% include footer_scripts.html %}
+</body>
+
+</html>

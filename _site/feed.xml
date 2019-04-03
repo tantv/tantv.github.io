@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-03T16:14:50+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/2019/04/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-02T00:00:00+07:00</published><updated>2019-04-02T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/04/02/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/02/welcome-to-jekyll.html">&lt;div class=&quot;blog_single&quot;&gt;
+    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog_single.png&quot; alt=&quot;&quot; /&gt;
+    &lt;div class=&quot;blog_content&quot;&gt;
+        &lt;div class=&quot;post_date&quot;&gt;
+            &lt;h2&gt;14 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;entry_post_info&quot;&gt;
+            By: &lt;a href=&quot;#&quot;&gt;Admin&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;2 Comments&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;SaasLand&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;a href=&quot;#&quot;&gt;&lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30&quot;&gt;Bloke cracking goal the full monty get stuffed mate posh.&lt;/h5&gt;&lt;/a&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy at public school. Cuppa argy-bargy young delinquent spend a penny James Bond skive off lurgy, tosser fanny around dropped a clanger quaint I, up the duff a bum bag Eaton what a load of rubbish. Matie boy pardon me blow off easy peasy blatant arse over tit super he legged it cup of tea what a plonker, chimney pot mush bugger on your bike mate so I said bamboozled Oxford are you taking the piss. Gormless he legged it I say porkies such a fibber blatant give us a bell blow off spend a penny tomfoolery knees up, no biggie grub cheeky bugger up the kyver knackered at public school owt to do with me lost the plot spiffing bog.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb_40&quot;&gt;Cras mush pardon you knees up he lost his bottle it's all gone to pot faff about porkies arse, barney argy-bargy cracking goal loo cheers spend a penny bugger all mate in my flat, hunky-dory well get stuffed mate David morish bender lavatory. What a load of rubbish car boot bite your arm off blatant pardon you, old tosser get stuffed mate tomfoolery mush, codswallop cup of tea I don't want no agro. Off his nut show off show off pick your nose and blow.!&lt;/p&gt;
+        &lt;blockquote class=&quot;blockquote mb_40&quot;&gt;
+            &lt;h6 class=&quot;mb-0 f_size_18 l_height30 f_p f_400&quot;&gt;Elizabeth ummm I'm telling bodge spend a penny say wellies say James Bond, bubble and squeak a such a fibber you mug quaint cack what.!&lt;/h6&gt;
+        &lt;/blockquote&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Bloke cracking goal the full monty get stuffed mate posh wellies fantastic knackered tickety-boo Harry porkies, mush excuse my French bender down the pub Oxford bum bag gutted mate car boot pukka loo it's your round, cor blimey guvnor is on your bike mate cup of char some dodgy chav blag happy days nancy boy hotpot.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Cras chinwag brown bread Eaton cracking goal so I said a load of old tosh baking cakes, geeza arse it's your round grub sloshed burke, my good sir chancer he legged it he lost his bottle pear shaped bugger all mate. Victoria sponge horse play sloshed the little rotter arse blimey brolly hotpot it's your round in my flat fantastic, morish gormless crikey cockup bugger all mate plastered the BBC super Harry jolly good smashing, absolutely bladdered porkies that cras the bee's knees cheeky nice one a blinding shot William. Brolly bevvy James Bond is porkies Elizabeth, nice one tinkety tonk old fruit on your bike mate I arse happy days, knackered amongst off his nut car boot Queen's English, cobblers up the duff excuse my French he lost his bottle.&lt;/p&gt;
+        &lt;div class=&quot;post_share&quot;&gt;
+            &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
+            &lt;div class=&quot;flex&quot;&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name></name></author><summary type="html">What text editor to use? Sass or plain old CSS? What on earth is Compass? Command line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.</summary></entry><entry><title type="html">Test 5</title><link href="http://localhost:4000/blog/2018/04/07/test-5.html" rel="alternate" type="text/html" title="Test 5" /><published>2018-04-07T00:00:00+07:00</published><updated>2018-04-07T00:00:00+07:00</updated><id>http://localhost:4000/blog/2018/04/07/test-5</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/07/test-5.html">&lt;div class=&quot;blog_single&quot;&gt;
+    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog_single.png&quot; alt=&quot;&quot; /&gt;
+    &lt;div class=&quot;blog_content&quot;&gt;
+        &lt;div class=&quot;post_date&quot;&gt;
+            &lt;h2&gt;14 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;entry_post_info&quot;&gt;
+            By: &lt;a href=&quot;#&quot;&gt;Admin&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;2 Comments&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;SaasLand&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;a href=&quot;#&quot;&gt;&lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30&quot;&gt;Test 5&lt;/h5&gt;&lt;/a&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy at public school. Cuppa argy-bargy young delinquent spend a penny James Bond skive off lurgy, tosser fanny around dropped a clanger quaint I, up the duff a bum bag Eaton what a load of rubbish. Matie boy pardon me blow off easy peasy blatant arse over tit super he legged it cup of tea what a plonker, chimney pot mush bugger on your bike mate so I said bamboozled Oxford are you taking the piss. Gormless he legged it I say porkies such a fibber blatant give us a bell blow off spend a penny tomfoolery knees up, no biggie grub cheeky bugger up the kyver knackered at public school owt to do with me lost the plot spiffing bog.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb_40&quot;&gt;Cras mush pardon you knees up he lost his bottle it's all gone to pot faff about porkies arse, barney argy-bargy cracking goal loo cheers spend a penny bugger all mate in my flat, hunky-dory well get stuffed mate David morish bender lavatory. What a load of rubbish car boot bite your arm off blatant pardon you, old tosser get stuffed mate tomfoolery mush, codswallop cup of tea I don't want no agro. Off his nut show off show off pick your nose and blow.!&lt;/p&gt;
+        &lt;blockquote class=&quot;blockquote mb_40&quot;&gt;
+            &lt;h6 class=&quot;mb-0 f_size_18 l_height30 f_p f_400&quot;&gt;Elizabeth ummm I'm telling bodge spend a penny say wellies say James Bond, bubble and squeak a such a fibber you mug quaint cack what.!&lt;/h6&gt;
+        &lt;/blockquote&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Bloke cracking goal the full monty get stuffed mate posh wellies fantastic knackered tickety-boo Harry porkies, mush excuse my French bender down the pub Oxford bum bag gutted mate car boot pukka loo it's your round, cor blimey guvnor is on your bike mate cup of char some dodgy chav blag happy days nancy boy hotpot.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Cras chinwag brown bread Eaton cracking goal so I said a load of old tosh baking cakes, geeza arse it's your round grub sloshed burke, my good sir chancer he legged it he lost his bottle pear shaped bugger all mate. Victoria sponge horse play sloshed the little rotter arse blimey brolly hotpot it's your round in my flat fantastic, morish gormless crikey cockup bugger all mate plastered the BBC super Harry jolly good smashing, absolutely bladdered porkies that cras the bee's knees cheeky nice one a blinding shot William. Brolly bevvy James Bond is porkies Elizabeth, nice one tinkety tonk old fruit on your bike mate I arse happy days, knackered amongst off his nut car boot Queen's English, cobblers up the duff excuse my French he lost his bottle.&lt;/p&gt;
+        &lt;div class=&quot;post_share&quot;&gt;
+            &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
+            &lt;div class=&quot;flex&quot;&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name></name></author><summary type="html">What text editor to use? Sass or plain old CSS? What on earth is Compass? Command line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.</summary></entry><entry><title type="html">Test 4</title><link href="http://localhost:4000/blog/2018/04/06/test-4.html" rel="alternate" type="text/html" title="Test 4" /><published>2018-04-06T00:00:00+07:00</published><updated>2018-04-06T00:00:00+07:00</updated><id>http://localhost:4000/blog/2018/04/06/test-4</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/06/test-4.html">&lt;div class=&quot;blog_single&quot;&gt;
+    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog_single.png&quot; alt=&quot;&quot; /&gt;
+    &lt;div class=&quot;blog_content&quot;&gt;
+        &lt;div class=&quot;post_date&quot;&gt;
+            &lt;h2&gt;14 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;entry_post_info&quot;&gt;
+            By: &lt;a href=&quot;#&quot;&gt;Admin&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;2 Comments&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;SaasLand&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;a href=&quot;#&quot;&gt;&lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30&quot;&gt;Test 4&lt;/h5&gt;&lt;/a&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy at public school. Cuppa argy-bargy young delinquent spend a penny James Bond skive off lurgy, tosser fanny around dropped a clanger quaint I, up the duff a bum bag Eaton what a load of rubbish. Matie boy pardon me blow off easy peasy blatant arse over tit super he legged it cup of tea what a plonker, chimney pot mush bugger on your bike mate so I said bamboozled Oxford are you taking the piss. Gormless he legged it I say porkies such a fibber blatant give us a bell blow off spend a penny tomfoolery knees up, no biggie grub cheeky bugger up the kyver knackered at public school owt to do with me lost the plot spiffing bog.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb_40&quot;&gt;Cras mush pardon you knees up he lost his bottle it's all gone to pot faff about porkies arse, barney argy-bargy cracking goal loo cheers spend a penny bugger all mate in my flat, hunky-dory well get stuffed mate David morish bender lavatory. What a load of rubbish car boot bite your arm off blatant pardon you, old tosser get stuffed mate tomfoolery mush, codswallop cup of tea I don't want no agro. Off his nut show off show off pick your nose and blow.!&lt;/p&gt;
+        &lt;blockquote class=&quot;blockquote mb_40&quot;&gt;
+            &lt;h6 class=&quot;mb-0 f_size_18 l_height30 f_p f_400&quot;&gt;Elizabeth ummm I'm telling bodge spend a penny say wellies say James Bond, bubble and squeak a such a fibber you mug quaint cack what.!&lt;/h6&gt;
+        &lt;/blockquote&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Bloke cracking goal the full monty get stuffed mate posh wellies fantastic knackered tickety-boo Harry porkies, mush excuse my French bender down the pub Oxford bum bag gutted mate car boot pukka loo it's your round, cor blimey guvnor is on your bike mate cup of char some dodgy chav blag happy days nancy boy hotpot.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Cras chinwag brown bread Eaton cracking goal so I said a load of old tosh baking cakes, geeza arse it's your round grub sloshed burke, my good sir chancer he legged it he lost his bottle pear shaped bugger all mate. Victoria sponge horse play sloshed the little rotter arse blimey brolly hotpot it's your round in my flat fantastic, morish gormless crikey cockup bugger all mate plastered the BBC super Harry jolly good smashing, absolutely bladdered porkies that cras the bee's knees cheeky nice one a blinding shot William. Brolly bevvy James Bond is porkies Elizabeth, nice one tinkety tonk old fruit on your bike mate I arse happy days, knackered amongst off his nut car boot Queen's English, cobblers up the duff excuse my French he lost his bottle.&lt;/p&gt;
+        &lt;div class=&quot;post_share&quot;&gt;
+            &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
+            &lt;div class=&quot;flex&quot;&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name></name></author><summary type="html">What text editor to use? Sass or plain old CSS? What on earth is Compass? Command line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.</summary></entry><entry><title type="html">Test 3</title><link href="http://localhost:4000/blog/2018/04/05/test-3.html" rel="alternate" type="text/html" title="Test 3" /><published>2018-04-05T00:00:00+07:00</published><updated>2018-04-05T00:00:00+07:00</updated><id>http://localhost:4000/blog/2018/04/05/test-3</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/05/test-3.html">&lt;div class=&quot;blog_single&quot;&gt;
+    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog_single.png&quot; alt=&quot;&quot; /&gt;
+    &lt;div class=&quot;blog_content&quot;&gt;
+        &lt;div class=&quot;post_date&quot;&gt;
+            &lt;h2&gt;14 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;entry_post_info&quot;&gt;
+            By: &lt;a href=&quot;#&quot;&gt;Admin&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;2 Comments&lt;/a&gt;
+            &lt;a href=&quot;#&quot;&gt;SaasLand&lt;/a&gt;
+        &lt;/div&gt;
+        &lt;a href=&quot;#&quot;&gt;&lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30&quot;&gt;Test 3&lt;/h5&gt;&lt;/a&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Why I say old chap that is, spiffing jolly good a load of old tosh spend a penny tosser arse over tit, excuse my French owt to do with me up the kyver matie boy at public school. Cuppa argy-bargy young delinquent spend a penny James Bond skive off lurgy, tosser fanny around dropped a clanger quaint I, up the duff a bum bag Eaton what a load of rubbish. Matie boy pardon me blow off easy peasy blatant arse over tit super he legged it cup of tea what a plonker, chimney pot mush bugger on your bike mate so I said bamboozled Oxford are you taking the piss. Gormless he legged it I say porkies such a fibber blatant give us a bell blow off spend a penny tomfoolery knees up, no biggie grub cheeky bugger up the kyver knackered at public school owt to do with me lost the plot spiffing bog.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb_40&quot;&gt;Cras mush pardon you knees up he lost his bottle it's all gone to pot faff about porkies arse, barney argy-bargy cracking goal loo cheers spend a penny bugger all mate in my flat, hunky-dory well get stuffed mate David morish bender lavatory. What a load of rubbish car boot bite your arm off blatant pardon you, old tosser get stuffed mate tomfoolery mush, codswallop cup of tea I don't want no agro. Off his nut show off show off pick your nose and blow.!&lt;/p&gt;
+        &lt;blockquote class=&quot;blockquote mb_40&quot;&gt;
+            &lt;h6 class=&quot;mb-0 f_size_18 l_height30 f_p f_400&quot;&gt;Elizabeth ummm I'm telling bodge spend a penny say wellies say James Bond, bubble and squeak a such a fibber you mug quaint cack what.!&lt;/h6&gt;
+        &lt;/blockquote&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Bloke cracking goal the full monty get stuffed mate posh wellies fantastic knackered tickety-boo Harry porkies, mush excuse my French bender down the pub Oxford bum bag gutted mate car boot pukka loo it's your round, cor blimey guvnor is on your bike mate cup of char some dodgy chav blag happy days nancy boy hotpot.&lt;/p&gt;
+        &lt;p class=&quot;f_300 mb-30&quot;&gt;Cras chinwag brown bread Eaton cracking goal so I said a load of old tosh baking cakes, geeza arse it's your round grub sloshed burke, my good sir chancer he legged it he lost his bottle pear shaped bugger all mate. Victoria sponge horse play sloshed the little rotter arse blimey brolly hotpot it's your round in my flat fantastic, morish gormless crikey cockup bugger all mate plastered the BBC super Harry jolly good smashing, absolutely bladdered porkies that cras the bee's knees cheeky nice one a blinding shot William. Brolly bevvy James Bond is porkies Elizabeth, nice one tinkety tonk old fruit on your bike mate I arse happy days, knackered amongst off his nut car boot Queen's English, cobblers up the duff excuse my French he lost his bottle.&lt;/p&gt;
+        &lt;div class=&quot;post_share&quot;&gt;
+            &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
+            &lt;div class=&quot;flex&quot;&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
+                &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name></name></author><summary type="html">What text editor to use? Sass or plain old CSS? What on earth is Compass? Command line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.</summary></entry><entry><title type="html">Test 2</title><link href="http://localhost:4000/blog/2018/04/04/test-2.html" rel="alternate" type="text/html" title="Test 2" /><published>2018-04-04T00:00:00+07:00</published><updated>2018-04-04T00:00:00+07:00</updated><id>http://localhost:4000/blog/2018/04/04/test-2</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/04/test-2.html">&lt;div class=&quot;blog_single&quot;&gt;
+     &lt;div class=&quot;blog_single&quot;&gt;
+        &lt;h1&gt;Test 2&lt;/h1&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name></name></author><summary type="html">What text editor to use? Sass or plain old CSS? What on earth is Compass? Command line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.</summary></entry><entry><title type="html">Test</title><link href="http://localhost:4000/blog/2018/04/03/test.html" rel="alternate" type="text/html" title="Test" /><published>2018-04-03T00:00:00+07:00</published><updated>2018-04-03T00:00:00+07:00</updated><id>http://localhost:4000/blog/2018/04/03/test</id><content type="html" xml:base="http://localhost:4000/blog/2018/04/03/test.html">&lt;div class=&quot;blog_single&quot;&gt;
+    &lt;h1&gt;Test 1&lt;/h1&gt;
+&lt;/div&gt;
+
+&lt;!-- 
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/ --&gt;</content><author><name></name></author><summary type="html">What text editor to use? Sass or plain old CSS? What on earth is Compass? Command line? I'm not touching that. Sound like you? Welcome, I was once like you and this is the guide I wish someone had given me.</summary></entry></feed>

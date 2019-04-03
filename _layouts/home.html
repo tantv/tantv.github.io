@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+{% include head.html %}
+<body>
+    {% include preloader.html %}
+
+    <div class="wrapper">
+        {% include header.html %}
+    </div>
+
+    {{content}}
+    
+    {% include footer.html %}
+    {% include footer_scripts.html %}
+</body>
+
+</html>
