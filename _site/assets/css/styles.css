@@ -1,5 +1,8 @@
 /*=== fonts ====*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,900");
+/*
+ @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,900');
+*/
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900");
 /*===== color =====*/
 a {
   text-decoration: none; }
@@ -16,7 +19,7 @@ i:before {
   margin-left: 0px !important; }
 
 body {
-  font: 400 16px/26px "Poppins", sans-serif;
+  font: 400 16px/26px "Roboto", sans-serif;
   letter-spacing: 0px;
   color: #677294;
   padding: 0px;
@@ -100,7 +103,7 @@ a, .btn, button {
   line-height: 28px; }
 
 .f_p {
-  font-family: "Poppins", sans-serif; }
+  font-family: "Roboto", sans-serif; }
 
 /*=========== font-weight ==============*/
 .f_300 {
@@ -251,7 +254,7 @@ a, .btn, button {
   display: inline-block;
   font-weight: 500;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   z-index: 1;
   cursor: pointer;
   transition: all 0.3s linear; }
@@ -259,7 +262,7 @@ a, .btn, button {
     color: #fff; }
 
 .btn_get {
-  font: 500 14px/47px "Poppins", sans-serif;
+  font: 500 14px/47px "Roboto", sans-serif;
   color: #3781ff;
   border: 2px solid #ccc5fa;
   border-radius: 4px;
@@ -286,7 +289,7 @@ a, .btn, button {
     color: #3781ff; }
 
 .price_btn {
-  font: 500 15px/53px "Poppins", sans-serif;
+  font: 500 15px/53px "Roboto", sans-serif;
   color: #3781ff;
   border: 1px solid #3781ff;
   border-radius: 4px;
@@ -298,7 +301,7 @@ a, .btn, button {
     color: #fff; }
 
 .slider_btn {
-  font: 500 14px/20px "Poppins", sans-serif;
+  font: 500 14px/20px "Roboto", sans-serif;
   color: #00aff0;
   border-radius: 45px;
   padding: 15px 35px;
@@ -308,7 +311,7 @@ a, .btn, button {
     color: #fff; }
 
 .btn_three {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   color: #fff;
   background: #7444fd;
   border-radius: 3px;
@@ -323,7 +326,7 @@ a, .btn, button {
     background: transparent; }
 
 .agency_banner_btn {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   color: #fff;
   background: #3781ff;
   box-shadow: 0px 20px 30px 0px rgba(12, 0, 46, 0.1);
@@ -338,7 +341,7 @@ a, .btn, button {
     background: transparent; }
 
 .agency_banner_btn_two {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   color: #222d39;
   position: relative;
   margin-left: 50px;
@@ -358,7 +361,7 @@ a, .btn, button {
       background: #3781ff; }
 
 .software_banner_btn {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   color: #fff;
   background: #3d64f4;
   box-shadow: 0px 20px 30px 0px rgba(12, 0, 46, 0.1);
@@ -372,7 +375,7 @@ a, .btn, button {
     background: #fff; }
 
 .video_btn {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   color: #fff;
   margin-left: 30px; }
   .video_btn .icon {
@@ -402,7 +405,7 @@ a, .btn, button {
     color: #fff; }
 
 .btn_four {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   padding: 16px 40px;
   border-radius: 45px;
   color: #fff;
@@ -445,7 +448,7 @@ a, .btn, button {
     box-shadow: none; }
 
 .gr_btn {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   color: #23b1fe;
   display: inline-block;
   padding: 15px 31px;
@@ -501,7 +504,7 @@ a, .btn, button {
       margin: 0 auto 3.5em auto;
       width: 9em; }
     .ctn-preloader .animation-preloader .txt-loading {
-      font: bold 5em "Poppins", sans-serif;
+      font: bold 5em "Roboto", sans-serif;
       text-align: center;
       user-select: none; }
       .ctn-preloader .animation-preloader .txt-loading .letters-loading {
@@ -513,7 +516,7 @@ a, .btn, button {
           content: attr(data-text-preloader);
           left: 0;
           opacity: 0;
-          font-family: "Poppins", sans-serif;
+          font-family: "Roboto", sans-serif;
           position: absolute;
           top: -3px;
           transform: rotateY(-90deg); }
@@ -591,14 +594,14 @@ a, .btn, button {
     width: 8em; }
 
   .ctn-preloader .animation-preloader .txt-loading {
-    font: bold 3.5em "Poppins", sans-serif; } }
+    font: bold 3.5em "Roboto", sans-serif; } }
 @media screen and (max-width: 500px) {
   .ctn-preloader .animation-preloader .spinner {
     height: 7em;
     width: 7em; }
 
   .ctn-preloader .animation-preloader .txt-loading {
-    font: bold 2em "Poppins", sans-serif; } }
+    font: bold 2em "Roboto", sans-serif; } }
 /*============== header_area css ==============*/
 .header_area {
   position: fixed;
@@ -636,7 +639,7 @@ a, .btn, button {
   padding-bottom: 35px;
   padding-top: 35px; }
   .menu > .nav-item > .nav-link {
-    font: 500 15px "Poppins", sans-serif;
+    font: 500 15px "Roboto", sans-serif;
     color: #051441;
     padding: 0px;
     transition: color 0.3s ease 0s;
@@ -678,7 +681,7 @@ a, .btn, button {
       .menu > .nav-item.submenu .dropdown-menu .nav-item .nav-link {
         padding: 0px;
         white-space: nowrap;
-        font: 400 14px/34px "Poppins", sans-serif;
+        font: 400 14px/34px "Roboto", sans-serif;
         color: #051441;
         transition: color 0.2s linear; }
         .menu > .nav-item.submenu .dropdown-menu .nav-item .nav-link:after {
@@ -723,7 +726,7 @@ a, .btn, button {
         margin-bottom: -10px;
         width: 25%; }
         .menu > .nav-item.submenu.mega_menu > .dropdown-menu > .nav-item > .nav-link {
-          font: 500 18px "Poppins", sans-serif;
+          font: 500 18px "Roboto", sans-serif;
           color: #13112d; }
         .menu > .nav-item.submenu.mega_menu > .dropdown-menu > .nav-item .dropdown-menu {
           left: 0;
@@ -794,7 +797,7 @@ a, .btn, button {
   color: #fff; }
 
 .nav_right_btn .login_btn {
-  font: 500 15px "Poppins", sans-serif;
+  font: 500 15px "Roboto", sans-serif;
   padding: 13px 32px;
   min-width: 120px;
   display: inline-block;
@@ -1032,7 +1035,7 @@ a, .btn, button {
   .header_contact_info li {
     display: inline-block;
     font-size: 14px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     color: #fff; }
     .header_contact_info li:before {
@@ -1132,7 +1135,7 @@ a, .btn, button {
         margin: 0px 17px 0px 15px; }
       .header_area_seven .header_top .header_top_menu li a {
         font-size: 12px;
-        font-family: "Poppins", sans-serif;
+        font-family: "Roboto", sans-serif;
         font-weight: 300;
         color: #fff;
         transition: opacity 0.2s linear; }
@@ -1258,7 +1261,7 @@ a, .btn, button {
       border-radius: 4px;
       background-color: white;
       box-shadow: 0px 30px 30px 0px rgba(0, 11, 40, 0.1);
-      font: 400 15px/46px "Poppins", sans-serif;
+      font: 400 15px/46px "Roboto", sans-serif;
       padding-left: 30px;
       color: #051441;
       z-index: 0; }
@@ -1367,7 +1370,7 @@ a, .btn, button {
     color: #222d39;
     padding-left: 30px;
     box-shadow: 0px 2px 3px 0px rgba(12, 0, 46, 0.06);
-    font: 300 14px/28px "Poppins", sans-serif;
+    font: 300 14px/28px "Roboto", sans-serif;
     border: 1px solid transparent; }
     .prototype_content .banner_subscribe .subcribes .form-control.placeholder {
       color: #aeb4ba; }
@@ -1580,7 +1583,7 @@ a, .btn, button {
         border-radius: 4px;
         background-color: white;
         box-shadow: 0px 8px 16px 0px rgba(0, 11, 40, 0.1);
-        font: 300 16px/36px "Poppins", sans-serif;
+        font: 300 16px/36px "Roboto", sans-serif;
         border: 0px;
         color: #a1a8be;
         height: 60px;
@@ -1599,7 +1602,7 @@ a, .btn, button {
         position: absolute;
         top: 0;
         right: 0;
-        font: 400 14px/60px "Poppins", sans-serif;
+        font: 400 14px/60px "Roboto", sans-serif;
         color: #fff;
         background: #1c7ce7;
         border-radius: 4px;
@@ -1855,7 +1858,7 @@ a, .btn, button {
     color: #3781ff; }
 
 .learn_btn {
-  font: 500 16px/25px "Poppins", sans-serif;
+  font: 500 16px/25px "Roboto", sans-serif;
   color: #051441;
   vertical-align: middle;
   display: inline-block;
@@ -2157,7 +2160,7 @@ a, .btn, button {
   .agency_featured_item .agency_featured_content {
     position: relative; }
     .agency_featured_item .agency_featured_content h3 {
-      font: 500 26px/36px "Poppins", sans-serif;
+      font: 500 26px/36px "Roboto", sans-serif;
       color: #222d39;
       margin: 32px 0px 25px; }
     .agency_featured_item .agency_featured_content p {
@@ -2195,7 +2198,7 @@ a, .btn, button {
   font-size: 17px;
   margin: 30px 0px 25px; }
 .software_featured_item .learn_btn {
-  font: 400 14px/26px "Poppins", sans-serif;
+  font: 400 14px/26px "Roboto", sans-serif;
   color: #222d39;
   position: relative;
   margin-top: 0px; }
@@ -2804,7 +2807,7 @@ a, .btn, button {
       left: 50%;
       transform: translate(-50%, -50%); }
   .agency_service_item a {
-    font: 400 14px/26px "Poppins", sans-serif;
+    font: 400 14px/26px "Roboto", sans-serif;
     color: #222d39;
     vertical-align: middle;
     position: relative;
@@ -2863,7 +2866,7 @@ a, .btn, button {
       border: 0px;
       border-left: 4px solid #e6e8ef;
       background: transparent;
-      font: 400 16px "Poppins", sans-serif;
+      font: 400 16px "Roboto", sans-serif;
       color: #677294;
       position: relative; }
       .software_service_tab .nav-item .nav-link:before {
@@ -2893,7 +2896,7 @@ a, .btn, button {
       color: #3d64f4;
       line-height: 40px; }
     .software_service_tab_content .software_service_item h5 {
-      font: 600 17px/25px "Poppins", sans-serif;
+      font: 600 17px/25px "Roboto", sans-serif;
       color: #222d39; }
     .software_service_tab_content .software_service_item p {
       font-size: 15px; }
@@ -2913,7 +2916,7 @@ a, .btn, button {
       margin: 0px 0px 0px 50px;
       float: left; }
       .developer_product_content .develor_tab .nav-item .nav-link {
-        font: 400 16px "Poppins", sans-serif;
+        font: 400 16px "Roboto", sans-serif;
         color: #677294;
         border: 0px;
         padding: 0px 0px 10px;
@@ -2941,7 +2944,7 @@ a, .btn, button {
     line-height: 28px;
     font-weight: 300; }
   .developer_product_content .developer_tab_content .details_btn {
-    font: 400 14px "Poppins", sans-serif;
+    font: 400 14px "Roboto", sans-serif;
     color: #3d64f4;
     position: relative;
     display: inline-block; }
@@ -3037,7 +3040,7 @@ a, .btn, button {
 .service_details ul {
   padding-left: 35px; }
   .service_details ul li {
-    font: 400 16px "Poppins", sans-serif;
+    font: 400 16px "Roboto", sans-serif;
     color: #677294;
     position: relative;
     padding-left: 35px;
@@ -3146,7 +3149,7 @@ a, .btn, button {
   margin-bottom: 30px;
   position: relative; }
   .s_pricing-item .tag_label {
-    font: 400 16px/22px "Poppins", sans-serif;
+    font: 400 16px/22px "Roboto", sans-serif;
     color: #fff;
     background: #5f2eed;
     transform: rotate(90deg);
@@ -3251,7 +3254,7 @@ a, .btn, button {
   margin: 0 auto;
   position: relative; }
   .s_subcribes .form-control {
-    font: 300 16px/100px "Poppins", sans-serif;
+    font: 300 16px/100px "Roboto", sans-serif;
     color: #9ea4b7;
     height: 100px;
     padding: 0px 0px 0px 50px;
@@ -3300,7 +3303,7 @@ a, .btn, button {
     margin: 0px; }
     .price_tab .nav-item .nav-link {
       margin: 0px;
-      font: 400 16px "Poppins", sans-serif;
+      font: 400 16px "Roboto", sans-serif;
       color: #677294;
       padding: 12px 30px;
       display: inline-block;
@@ -3347,7 +3350,7 @@ a, .btn, button {
   cursor: pointer; }
   .price_content .price_item .tag {
     position: absolute;
-    font: 400 14px "Poppins", sans-serif;
+    font: 400 14px "Roboto", sans-serif;
     color: #fff;
     background: #00aff0;
     padding: 19px 32px;
@@ -3373,7 +3376,7 @@ a, .btn, button {
   .price_content .price_item .p_list {
     padding: 30px 0px 20px; }
     .price_content .price_item .p_list li {
-      font: 300 16px/40px "Poppins", sans-serif;
+      font: 300 16px/40px "Roboto", sans-serif;
       color: #505975; }
       .price_content .price_item .p_list li i {
         padding-right: 10px; }
@@ -3600,7 +3603,7 @@ a, .btn, button {
   bottom: -30px; }
 
 .about_btn {
-  font: 500 14px "Poppins", sans-serif;
+  font: 500 14px "Roboto", sans-serif;
   padding: 17px 28px;
   background: #fbfbfd;
   box-shadow: 0px 20px 30px 0px rgba(12, 0, 46, 0.1);
@@ -3705,7 +3708,7 @@ a, .btn, button {
         .agency_testimonial_info .testimonial_slider .testimonial_item .author_description h4 {
           margin-bottom: 5px; }
         .agency_testimonial_info .testimonial_slider .testimonial_item .author_description h6 {
-          font: 400 14px/26px "Poppins", sans-serif;
+          font: 400 14px/26px "Roboto", sans-serif;
           color: #959cb1; }
       .agency_testimonial_info .testimonial_slider .testimonial_item p {
         font-weight: 300;
@@ -3797,7 +3800,7 @@ a, .btn, button {
     .subscribe_form_info .subscribe-form .form-control {
       text-align: center;
       border: 0px;
-      font: 400 18px/28px "Poppins", sans-serif;
+      font: 400 18px/28px "Roboto", sans-serif;
       color: #b4bacc;
       border-radius: 0px;
       border-bottom: 1px solid #3d64f4;
@@ -3851,7 +3854,7 @@ a, .btn, button {
 /*============== saas_signup_area css ==============*/
 .saas_signup_form .input-group .form-control {
   background: transparent;
-  font: 300 14px "Poppins", sans-serif;
+  font: 300 14px "Roboto", sans-serif;
   color: rgba(255, 255, 255, 0.7);
   border-radius: 0px;
   border: 0px;
@@ -4058,7 +4061,7 @@ a, .btn, button {
       background-image: linear-gradient(140deg, #672dde 0%, #4069eb 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
-      font-family: "Poppins", sans-serif;
+      font-family: "Roboto", sans-serif;
       font-size: 200px;
       line-height: 200px;
       z-index: -1;
@@ -4165,7 +4168,7 @@ a, .btn, button {
   .ex_team_item h3 {
     margin-bottom: 3px; }
   .ex_team_item h5 {
-    font: 300 14px/24px "Poppins", sans-serif;
+    font: 300 14px/24px "Roboto", sans-serif;
     color: #677294;
     margin-bottom: 0px; }
   .ex_team_item .team_content {
@@ -4328,7 +4331,7 @@ a, .btn, button {
     transform: rotate(180deg);
     left: -35px;
     top: 0;
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
     height: 133px; }
   .payment_testimonial_info .testimonial_content p {
     line-height: 34px;
@@ -4467,7 +4470,7 @@ a, .btn, button {
   .get_content h3 {
     font-size: 24px; }
   .get_content .app_btn {
-    font: 500 16px "Poppins", sans-serif;
+    font: 500 16px "Roboto", sans-serif;
     padding: 12px 34px;
     border-color: #fff;
     background: #fff;
@@ -4508,7 +4511,7 @@ a, .btn, button {
   .job_listing .job_list_tab {
     border-color: #e7e7f6; }
     .job_listing .job_list_tab .nav-item .nav-link {
-      font: 300 15px/26px "Poppins", sans-serif;
+      font: 300 15px/26px "Roboto", sans-serif;
       color: #677294;
       padding: 0px 0px 10px;
       border: 0px;
@@ -4577,7 +4580,7 @@ a, .btn, button {
           margin-bottom: 0px; }
           .job_listing .listing_tab .list_item .joblisting_text ul li {
             float: left;
-            font: 300 14px/15px "Poppins", sans-serif;
+            font: 300 14px/15px "Roboto", sans-serif;
             color: #677294;
             padding: 0px 10px;
             border-left: 2px solid #aeb3c3; }
@@ -4593,7 +4596,7 @@ a, .btn, button {
         .job_listing .listing_tab .list_item .joblisting_text .jobsearch-job-userlist {
           float: right; }
           .job_listing .listing_tab .list_item .joblisting_text .jobsearch-job-userlist .apply_btn {
-            font: 300 14px/36px "Poppins", sans-serif;
+            font: 300 14px/36px "Roboto", sans-serif;
             color: #5c6789;
             border: 1px solid #e7e7f6;
             border-radius: 3px;
@@ -4694,7 +4697,7 @@ a, .btn, button {
     .job_info .info_item h6 {
       font-size: 18px;
       color: #222d39;
-      font-family: "Poppins", sans-serif;
+      font-family: "Roboto", sans-serif;
       font-weight: 400;
       margin-bottom: 5px; }
     .job_info .info_item p {
@@ -4710,7 +4713,7 @@ a, .btn, button {
   border-radius: 4px;
   background-color: white;
   box-shadow: 0px 2px 4px 0px rgba(12, 0, 46, 0.04);
-  font: 300 15px/60px "Poppins", sans-serif;
+  font: 300 15px/60px "Roboto", sans-serif;
   color: #9ca3b9;
   width: 100%;
   height: 60px;
@@ -4735,18 +4738,18 @@ a, .btn, button {
 .apply_form .upload_box {
   width: 100%;
   border: 1px dotted #e7e3f2;
-  font: 300 15px/26px "Poppins", sans-serif;
+  font: 300 15px/26px "Roboto", sans-serif;
   color: #9ca3b9;
   padding: 20px 50px; }
   .apply_form .upload_box input[type="file"] {
-    font: 300 15px/26px "Poppins", sans-serif;
+    font: 300 15px/26px "Roboto", sans-serif;
     color: #9ca3b9;
     display: block;
     margin-top: 45px; }
     .apply_form .upload_box input[type="file"]:focus {
       outline: none; }
 .apply_form p {
-  font: 300 15px/26px "Poppins", sans-serif;
+  font: 300 15px/26px "Roboto", sans-serif;
   color: #677294; }
   .apply_form p a {
     color: #222d39; }
@@ -4776,7 +4779,7 @@ a, .btn, button {
   .faq_tab .nav-item {
     margin: 0px; }
     .faq_tab .nav-item .nav-link {
-      font: 400 16px/22px "Poppins", sans-serif;
+      font: 400 16px/22px "Roboto", sans-serif;
       color: #677294;
       padding: 0px;
       border: 0px;
@@ -4812,7 +4815,7 @@ a, .btn, button {
       display: block;
       width: 100%;
       text-align: left;
-      font: 500 18px/26px "Poppins", sans-serif;
+      font: 500 18px/26px "Roboto", sans-serif;
       padding: 20px 30px 20px 0px;
       position: relative;
       white-space: normal; }
@@ -4833,7 +4836,7 @@ a, .btn, button {
             display: none; }
   .faq_content .tab-pane .card .card-body {
     padding: 0px 0px 45px;
-    font: 300 15px/26px "Poppins", sans-serif;
+    font: 300 15px/26px "Roboto", sans-serif;
     color: #677294; }
 
 /*============= portfolio area css ============*/
@@ -4844,7 +4847,7 @@ a, .btn, button {
   display: flex;
   justify-content: center; }
   .portfolio_filter .work_portfolio_item {
-    font: 400 16px/22px "Poppins", sans-serif;
+    font: 400 16px/22px "Roboto", sans-serif;
     color: #677294;
     display: inline-block;
     border-radius: 3px;
@@ -5130,7 +5133,7 @@ a, .btn, button {
 .text_box {
   margin-bottom: 30px; }
   .text_box input[type="text"], .text_box textarea, .text_box input[type="password"] {
-    font: 300 15px/60px "Poppins", sans-serif;
+    font: 300 15px/60px "Roboto", sans-serif;
     color: #222d39;
     height: 60px;
     border-radius: 4px;
@@ -5199,7 +5202,7 @@ a, .btn, button {
 .login-form .extra {
   display: flex;
   justify-content: space-between;
-  font: 300 14px/30px "Poppins", sans-serif;
+  font: 300 14px/30px "Roboto", sans-serif;
   margin-top: 45px; }
   .login-form .extra .checkbox label {
     margin-bottom: 0px;
@@ -5243,7 +5246,7 @@ a, .btn, button {
   .login-form .btn_three:hover {
     box-shadow: 0px 20px 30px 0px rgba(61, 100, 244, 0.16); }
 .login-form .alter-login {
-  font: 400 15px/26px "Poppins", sans-serif;
+  font: 400 15px/26px "Roboto", sans-serif;
   color: #9ca3b9; }
   .login-form .alter-login a {
     color: #3781ff;
@@ -5268,7 +5271,7 @@ a, .btn, button {
     font-size: 30px;
     color: #677294; }
   .sign_info .sign_info_content ul li {
-    font: 300 16px/34px "Poppins", sans-serif;
+    font: 300 16px/34px "Roboto", sans-serif;
     color: #677294; }
     .sign_info .sign_info_content ul li i {
       color: #3781ff;
@@ -5276,7 +5279,7 @@ a, .btn, button {
   .sign_info .login-form .text_box {
     margin-bottom: 25px; }
   .sign_info .lead-text {
-    font: 400 14px/40px "Poppins", sans-serif;
+    font: 400 14px/40px "Roboto", sans-serif;
     color: #677294;
     padding-right: 20px; }
   .sign_info .social_tag li {
@@ -5319,7 +5322,7 @@ a, .btn, button {
 .get_quote_form .form-group {
   margin-bottom: 30px; }
   .get_quote_form .form-group .form-control {
-    font: 300 15px "Poppins", sans-serif;
+    font: 300 15px "Roboto", sans-serif;
     color: #677294;
     border-radius: 4px;
     background-color: white;
@@ -5377,11 +5380,11 @@ a, .btn, button {
 /*============= shop_grid_area css ==============*/
 .shop_menu_left p {
   margin-bottom: 0px;
-  font: 300 16px "Poppins", sans-serif;
+  font: 300 16px "Roboto", sans-serif;
   color: #282835; }
 
 .shop_menu_right h5 {
-  font: 500 16px "Poppins", sans-serif;
+  font: 500 16px "Roboto", sans-serif;
   color: #282835;
   margin-bottom: 5px; }
 .shop_menu_right .selectpickers {
@@ -5391,7 +5394,7 @@ a, .btn, button {
     height: 8px;
     top: 42%; }
   .shop_menu_right .selectpickers .current {
-    font: 300 16px "Poppins", sans-serif;
+    font: 300 16px "Roboto", sans-serif;
     color: #677294; }
 .shop_menu_right .shop_grid {
   display: flex; }
@@ -5446,7 +5449,7 @@ a, .btn, button {
       display: flex;
       flex-direction: row-reverse;
       justify-content: center;
-      font: 300 14px/28px "Poppins", sans-serif;
+      font: 300 14px/28px "Roboto", sans-serif;
       color: #677294; }
       .single_product_item .single_pr_details .price ins {
         font-weight: 500;
@@ -5513,7 +5516,7 @@ a, .btn, button {
     .shop_list_item .single_product_item .single_pr_details .ratting {
       float: right; }
     .shop_list_item .single_product_item .single_pr_details .pr_button .cart_btn {
-      font: 400 15px/30px "Poppins", sans-serif;
+      font: 400 15px/30px "Roboto", sans-serif;
       color: #677294;
       border: 1px solid #e7e7f6;
       border-radius: 45px;
@@ -5584,7 +5587,7 @@ a, .btn, button {
     font-weight: 300;
     color: #677294; }
 .pr_details .price {
-  font: 300 20px "Poppins", sans-serif;
+  font: 300 20px "Roboto", sans-serif;
   color: #677294;
   display: flex;
   justify-content: flex-end;
@@ -5596,7 +5599,7 @@ a, .btn, button {
     color: #282835;
     padding-right: 18px; }
 .pr_details .stock {
-  font: 400 16px "Poppins", sans-serif;
+  font: 400 16px "Roboto", sans-serif;
   color: #3781ff;
   vertical-align: middle;
   padding-top: 20px;
@@ -5635,7 +5638,7 @@ a, .btn, button {
   display: inline-block; }
   .pr_details .cart_button .cart_btn {
     border-radius: 45px;
-    font: 400 15px/48px "Poppins", sans-serif;
+    font: 400 15px/48px "Roboto", sans-serif;
     color: #677294;
     border: 1px solid #e7e7f6;
     background: #f8f8fc;
@@ -5661,7 +5664,7 @@ a, .btn, button {
 .pr_details .product_meta {
   width: 70%; }
   .pr_details .product_meta li {
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-weight: 300;
     color: #677294; }
     .pr_details .product_meta li a {
@@ -5674,7 +5677,7 @@ a, .btn, button {
       padding-right: 8px; }
 .pr_details .share-link label {
   margin-bottom: 0px;
-  font: 400 15px "Poppins", sans-serif;
+  font: 400 15px "Roboto", sans-serif;
   color: #282835; }
 .pr_details .share-link .social-icon {
   margin-bottom: 0px; }
@@ -5696,7 +5699,7 @@ a, .btn, button {
     float: left;
     margin: 0px; }
     .product_info_details .pr_tab .nav-item .nav-link {
-      font: 300 16px/40px "Poppins", sans-serif;
+      font: 300 16px/40px "Roboto", sans-serif;
       color: #677294;
       padding: 5px 25px;
       border: 0px;
@@ -5723,7 +5726,7 @@ a, .btn, button {
     .product_info_details .comment-box .comment-content .avatar img {
       border-radius: 50%; }
   .product_info_details .comment-box .comment-content .comment-header {
-    font: 300 14px "Poppins", sans-serif;
+    font: 300 14px "Roboto", sans-serif;
     display: inline-block; }
     .product_info_details .comment-box .comment-content .comment-header a {
       font-size: 15px;
@@ -5748,7 +5751,7 @@ a, .btn, button {
   border: 1px solid #ebebf7;
   border-radius: 4px;
   background: transparent;
-  font: 300 14px "Poppins", sans-serif;
+  font: 300 14px "Roboto", sans-serif;
   color: #282835;
   padding-left: 25px;
   box-shadow: none; }
@@ -5801,7 +5804,7 @@ input[type=number]::-webkit-inner-spin-button {
     width: 100%; }
   .shopping_cart_area .cart_table td {
     vertical-align: middle;
-    font: 400 16px/28px "Poppins", sans-serif;
+    font: 400 16px/28px "Roboto", sans-serif;
     color: #282835;
     border: 0px;
     padding-top: 0px;
@@ -5817,7 +5820,7 @@ input[type=number]::-webkit-inner-spin-button {
       padding-left: 30px;
       align-self: center; }
       .shopping_cart_area .cart_table .product .media .media-body h5 {
-        font: 500 16px/28px "Poppins", sans-serif;
+        font: 500 16px/28px "Roboto", sans-serif;
         color: #282835; }
   .shopping_cart_area .cart_table .total {
     width: 175px; }
@@ -5877,7 +5880,7 @@ input[type=number]::-webkit-inner-spin-button {
       .shopping_cart_area .cart_table .product-qty .manual-adjust::-webkit-input-placeholder {
         color: #677294; }
 .shopping_cart_area .cart_btn {
-  font: 400 14px "Poppins", sans-serif;
+  font: 400 14px "Roboto", sans-serif;
   color: #fff;
   border: 1px solid #3781ff;
   margin: 0px;
@@ -5898,7 +5901,7 @@ input[type=number]::-webkit-inner-spin-button {
 .shopping_cart_area .wislist_table .quantity {
   width: 140px; }
 .shopping_cart_area .wislist_table .add_cart {
-  font: 400 14px "Poppins", sans-serif;
+  font: 400 14px "Roboto", sans-serif;
   border: 1px solid #e7e7f6;
   background: transparent;
   color: #5c6789;
@@ -5924,7 +5927,7 @@ input[type=number]::-webkit-inner-spin-button {
       .cart_box .shop_table tbody tr th {
         width: 70%; }
       .cart_box .shop_table tbody tr td, .cart_box .shop_table tbody tr th {
-        font: 400 16px/28px "Poppins", sans-serif;
+        font: 400 16px/28px "Roboto", sans-serif;
         color: #282835;
         padding: 10px 0px; }
       .cart_box .shop_table tbody tr td {
@@ -5943,7 +5946,7 @@ input[type=number]::-webkit-inner-spin-button {
     border-radius: 4px;
     background-color: white;
     box-shadow: 0px 2px 4px 0px rgba(12, 0, 46, 0.04);
-    font: 300 15px "Poppins", sans-serif;
+    font: 300 15px "Roboto", sans-serif;
     color: #9ca3b9;
     height: 55px;
     padding-left: 25px;
@@ -5955,7 +5958,7 @@ input[type=number]::-webkit-inner-spin-button {
     position: absolute;
     right: 4px;
     top: 50%;
-    font: 400 14px/38px "Poppins", sans-serif;
+    font: 400 14px/38px "Roboto", sans-serif;
     color: #282835;
     height: 48px;
     padding: 0px 25px;
@@ -5970,7 +5973,7 @@ input[type=number]::-webkit-inner-spin-button {
       color: #fff; }
 
 .checkout_button {
-  font: 500 15px/30px "Poppins", sans-serif;
+  font: 500 15px/30px "Roboto", sans-serif;
   color: #fff;
   background: #3781ff;
   border-radius: 0px;
@@ -5987,7 +5990,7 @@ input[type=number]::-webkit-inner-spin-button {
 
 /*================== check list css ======================*/
 .return_customer {
-  font: 400 15px/25px "Poppins", sans-serif;
+  font: 400 15px/25px "Roboto", sans-serif;
   color: #3d3f45;
   padding-bottom: 20px; }
   .return_customer i {
@@ -6009,7 +6012,7 @@ input[type=number]::-webkit-inner-spin-button {
     box-shadow: 0px 2px 4px 0px rgba(12, 0, 46, 0.04);
     background: #fff;
     padding: 0px 30px;
-    font: 300 14px/60px "Poppins", sans-serif;
+    font: 300 14px/60px "Roboto", sans-serif;
     color: #969ca5;
     border: 1px solid transparent;
     border-radius: 4px;
@@ -6029,7 +6032,7 @@ input[type=number]::-webkit-inner-spin-button {
       border-color: #f2effc;
       outline: none; }
   .checkout_content label {
-    font: 600 16px/50px "Poppins", sans-serif;
+    font: 600 16px/50px "Roboto", sans-serif;
     display: block;
     color: #282835;
     margin-bottom: 20px; }
@@ -6042,7 +6045,7 @@ input[type=number]::-webkit-inner-spin-button {
     border-radius: 0px;
     border: 0px;
     box-shadow: 0px 2px 3px 0px rgba(0, 11, 40, 0.06);
-    font: 300 14px/60px "Poppins", sans-serif;
+    font: 300 14px/60px "Roboto", sans-serif;
     background: #fff;
     height: 60px;
     color: #9ca3b9;
@@ -6080,7 +6083,7 @@ input[type=number]::-webkit-inner-spin-button {
       background: #9ca3b9; }
   .checkout_content .l_text {
     display: inline-block;
-    font: 300 15px/26px "Poppins", sans-serif;
+    font: 300 15px/26px "Roboto", sans-serif;
     color: #9ca3b9;
     padding-left: 8px; }
   .checkout_content textarea {
@@ -6089,7 +6092,7 @@ input[type=number]::-webkit-inner-spin-button {
     border-radius: 0px;
     box-shadow: 0px 2px 3px 0px rgba(0, 11, 40, 0.06);
     height: 170px;
-    font: 300 14px/20px "Poppins", sans-serif;
+    font: 300 14px/20px "Roboto", sans-serif;
     color: #b6b9be;
     padding-left: 30px;
     padding-top: 20px;
@@ -6105,7 +6108,7 @@ input[type=number]::-webkit-inner-spin-button {
     .checkout_content textarea:focus {
       outline: none; }
   .checkout_content .tab_content p {
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 15px;
     margin-bottom: 0px;
     padding: 0px 0px 25px; }
@@ -6120,7 +6123,7 @@ input[type=number]::-webkit-inner-spin-button {
         margin-bottom: 0px; }
   .checkout_content .tab_content .login_btn {
     float: right;
-    font: 400 16px/48px "Poppins", sans-serif;
+    font: 400 16px/48px "Roboto", sans-serif;
     background: #3781ff;
     border: 1px solid #3781ff;
     color: #fff;
@@ -6154,7 +6157,7 @@ input[type=number]::-webkit-inner-spin-button {
   width: 100%;
   margin-bottom: 30px; }
   .woocommerce-checkout-review-order .shop_table tbody tr td {
-    font: 400 15px/30px "Poppins", sans-serif;
+    font: 400 15px/30px "Roboto", sans-serif;
     color: #677294; }
     .woocommerce-checkout-review-order .shop_table tbody tr td.price {
       color: #282835; }
@@ -6171,7 +6174,7 @@ input[type=number]::-webkit-inner-spin-button {
 .woocommerce-checkout-review-order h6 {
   font-size: 15px;
   color: #282835;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   margin: 0px;
   line-height: 30px;
@@ -6181,7 +6184,7 @@ input[type=number]::-webkit-inner-spin-button {
   line-height: 26px;
   color: #677294;
   font-weight: 300;
-  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
   margin-bottom: 25px; }
 .woocommerce-checkout-review-order ul li.payment {
   padding-left: 25px;
@@ -6254,7 +6257,7 @@ input[type=number]::-webkit-inner-spin-button {
     padding-left: 25px;
     font-size: 16px;
     line-height: 26px;
-    font-family: "Poppins", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #282835; }
     .woocommerce-checkout-review-order .condition .l_text span {
       color: #ff1e1e; }
@@ -6287,7 +6290,7 @@ input[type=number]::-webkit-inner-spin-button {
   width: 100%;
   background: #3781ff;
   border: 1px solid #3781ff;
-  font: 500 16px/50px "Poppins", sans-serif;
+  font: 500 16px/50px "Roboto", sans-serif;
   color: #fff;
   cursor: pointer;
   margin-top: 25px;
@@ -6328,7 +6331,7 @@ input[type=number]::-webkit-inner-spin-button {
     top: -40px;
     background: #fff; }
     .blog_content .post_date h2 {
-      font: 700 30px/20px "Poppins", sans-serif;
+      font: 700 30px/20px "Roboto", sans-serif;
       margin-bottom: 0px;
       color: #3781ff;
       padding-top: 5px; }
@@ -6343,7 +6346,7 @@ input[type=number]::-webkit-inner-spin-button {
   .blog_content h5:hover {
     color: #3781ff; }
   .blog_content .learn_btn_two {
-    font: 400 14px "Poppins", sans-serif;
+    font: 400 14px "Roboto", sans-serif;
     color: #282835; }
     .blog_content .learn_btn_two:before {
       transition: all 0.2s linear; }
@@ -6355,7 +6358,7 @@ input[type=number]::-webkit-inner-spin-button {
         background: #3781ff; }
 
 .entry_post_info {
-  font: 300 15px/25px "Poppins", sans-serif;
+  font: 300 15px/25px "Roboto", sans-serif;
   color: #677294;
   padding-bottom: 5px; }
   .entry_post_info a {
@@ -6380,7 +6383,7 @@ input[type=number]::-webkit-inner-spin-button {
   border-bottom: 1px solid #d8dceb;
   padding-bottom: 10px; }
   .post_share a {
-    font: 300 14px/26px "Poppins", sans-serif;
+    font: 300 14px/26px "Roboto", sans-serif;
     color: #525c7c; }
     .post_share a i {
       padding-right: 12px; }
@@ -6393,7 +6396,7 @@ input[type=number]::-webkit-inner-spin-button {
     text-align: right; }
 
 .post-nam {
-  font: 400 15px/26px "Poppins", sans-serif;
+  font: 400 15px/26px "Roboto", sans-serif;
   color: #282835; }
 
 .post_tag {
@@ -6401,7 +6404,7 @@ input[type=number]::-webkit-inner-spin-button {
   .post_tag .post-nam {
     padding-right: 10px; }
   .post_tag a {
-    font: 400 13px/26px "Poppins", sans-serif;
+    font: 400 13px/26px "Roboto", sans-serif;
     color: #595b64;
     border: 1px solid #cfcfe6;
     border-radius: 3px;
@@ -6458,7 +6461,7 @@ input[type=number]::-webkit-inner-spin-button {
   .blog-sidebar .widget.widget_search .search-form {
     position: relative; }
     .blog-sidebar .widget.widget_search .search-form .form-control {
-      font: 300 14px "Poppins", sans-serif;
+      font: 300 14px "Roboto", sans-serif;
       color: #677294;
       border-radius: 3px;
       background-color: white;
@@ -6512,7 +6515,7 @@ input[type=number]::-webkit-inner-spin-button {
   .blog-sidebar .widget.widget_categorie ul {
     margin-bottom: 0px; }
     .blog-sidebar .widget.widget_categorie ul li a {
-      font: 300 16px/35px "Poppins", sans-serif;
+      font: 300 16px/35px "Roboto", sans-serif;
       color: #282835;
       transition: all 0.2s linear; }
       .blog-sidebar .widget.widget_categorie ul li a span {
@@ -6529,7 +6532,7 @@ input[type=number]::-webkit-inner-spin-button {
     margin-left: -5px;
     margin-right: -5px; }
     .blog-sidebar .widget.widget_tag_cloud .post-tags a {
-      font: 400 13px/26px "Poppins", sans-serif;
+      font: 400 13px/26px "Roboto", sans-serif;
       color: #595b64;
       border: 1px solid #cfcfe6;
       border-radius: 3px;
@@ -6567,7 +6570,7 @@ input[type=number]::-webkit-inner-spin-button {
   .f_widget.about-widget .f_list li {
     margin-bottom: 15px; }
     .f_widget.about-widget .f_list li a {
-      font: 300 16px/20px "Poppins", sans-serif;
+      font: 300 16px/20px "Roboto", sans-serif;
       color: #677294;
       position: relative;
       transition: color 0.2s linear;
@@ -6595,7 +6598,7 @@ input[type=number]::-webkit-inner-spin-button {
   position: relative;
   margin-top: 40px; }
   .f_subscribe .form-control {
-    font: 300 14px "Poppins", sans-serif;
+    font: 300 14px "Roboto", sans-serif;
     color: #333;
     border: 1px solid #e2e7f3;
     border-radius: 3px;
@@ -7010,7 +7013,7 @@ input[type=number]::-webkit-inner-spin-button {
   background: #051441;
   padding: 27px 0px; }
   .footer_nine_bottom p {
-    font: 300 14px "Poppins", sans-serif;
+    font: 300 14px "Roboto", sans-serif;
     color: #7f88a6; }
     .footer_nine_bottom p a {
       color: #fff; }
@@ -7023,7 +7026,7 @@ input[type=number]::-webkit-inner-spin-button {
       padding: 0px;
       -webkit-box-shadow: none;
       box-shadow: none;
-      font: 400 14px "Poppins", sans-serif;
+      font: 400 14px "Roboto", sans-serif;
       color: #7f88a6; }
       .footer_nine_bottom .flag_selector .dropdown-toggle:after {
         display: none; }

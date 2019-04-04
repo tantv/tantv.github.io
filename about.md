@@ -16,7 +16,7 @@ active: about
 </section>
 <section class="agency_service_area bg_color">
     <div class="container">
-        <h2 class="f_size_30 f_600 t_color3 l_height40 text-center mb_90">You EC-CUBE VN wherever your<br> business agency</h2>
+        <h2 class="f_size_30 f_600 t_color3 l_height40 text-center mb_90">You EC-DEV VN wherever your<br> business agency</h2>
         <div class="row mb_30">
             <div class="col-lg-4 col-sm-6">
                 <div class="p_service_item agency_service_item pr_70">

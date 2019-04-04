@@ -10,7 +10,7 @@ active: cloud
         <div class="row">
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="software_banner_content">
-                    <h2 class="f_500 f_size_50 w_color wow fadeInLeft" data-wow-delay="0.2s"> Chúng tôi là <br><span class="f_700">EC-CUBE VN</span></h2>
+                    <h2 class="f_500 f_size_50 w_color wow fadeInLeft" data-wow-delay="0.2s"> Chúng tôi là <br><span class="f_700">EC-DEV VN</span></h2>
                     <p class="w_color f_size_18 l_height30 mt_30 wow fadeInLeft" data-wow-delay="0.4s">Chúng tôi sẽ giúp bạn thiết kế cho riêng mình một website <span class="f_700">Thương mại điện tử</span> đơn giản hơn bao giờ hết</p>
                     <div class="action_btn d-flex align-items-center mt_40 wow fadeInLeft" data-wow-delay="0.6s">
                         <a href="/contact" class="software_banner_btn">Bắt đầu ngay</a>

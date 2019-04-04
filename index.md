@@ -91,8 +91,8 @@ active: home
             <div class="col-lg-8">
                 <div class="row">
                     <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="icon">
-                            <img src="/assets/img/icon4.png" alt="">
+                        <div class="icon w_color f_size_24 d-flex align-items-center justify-content-center">
+                            <i class="ti-agenda"></i>
                         </div>
                         <div class="media-body">
                             <h3 class="f_size_20 f_p w_color f_600">Hỗ Trợ Thuế</h3>
@@ -100,8 +100,8 @@ active: home
                         </div>
                     </div>
                     <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="icon">
-                            <img src="/assets/img/icon7.png" alt="">
+                        <div class="icon w_color f_size_24 d-flex align-items-center justify-content-center">
+                            <i class="ti-control-shuffle"></i>
                         </div>
                         <div class="media-body">
                             <h3 class="f_size_20 f_p w_color f_600">Giao Hàng Nhiều Địa Chỉ</h3>
