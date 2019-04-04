@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: blog
-title: Blog
+title: Thông tin mới nhất
 permalink: /blog/
 active: blog
 ---
@@ -15,7 +15,7 @@ active: blog
           <div class="post_date">
               <h2>{{ post.date | date: '%d' }} <span>{{ post.date | date: '%B' }}</span></h2>
           </div>
-          <a href="#"><h5 class="f_p f_size_20 f_500 t_color mb_20">{{ post.title }}</h5></a>
+          <a href="{{ post.url }}"><h5 class="f_p f_size_20 f_500 t_color mb_20 mt-3">{{ post.title }}</h5></a>
           <p class="f_300 mb_20">{{ post.excerpt }}</p>
           <a href="{{ post.url }}" class="learn_btn_two">Xem thêm <i class="ti-arrow-right"></i></a>
       </div>

@@ -16,6 +16,12 @@
     }
 }
 .sticky_logo{
+    color: #fff; 
+
+    &:hover {
+        color: #fff;
+    }
+
     img{
         & + img{
             display: none;
@@ -730,7 +736,6 @@
         font-family: $pop;
         font-weight: 400;
         color: #fff;
-        text-transform: capitalize;
         &:before{
             content: "";
             width: 1px;
@@ -911,6 +916,12 @@
             }
         }
         .sticky_logo{
+            color: #3781ff;
+
+            &:hover {
+                color: #3781ff;
+            }
+
             img{
                 display: none;
                 & + img{

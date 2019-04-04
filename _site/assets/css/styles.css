@@ -609,8 +609,12 @@ a, .btn, button {
   .menu_one .btn_get {
     margin-left: 40px; }
 
-.sticky_logo img + img {
-  display: none; }
+.sticky_logo {
+  color: #fff; }
+  .sticky_logo:hover {
+    color: #fff; }
+  .sticky_logo img + img {
+    display: none; }
 
 @media (min-width: 992px) {
   .mobile_btn {
@@ -1025,8 +1029,7 @@ a, .btn, button {
     font-size: 14px;
     font-family: "Poppins", sans-serif;
     font-weight: 400;
-    color: #fff;
-    text-transform: capitalize; }
+    color: #fff; }
     .header_contact_info li:before {
       content: "";
       width: 1px;
@@ -1148,10 +1151,14 @@ a, .btn, button {
       transition: all 0.2s linear; }
       .header_area.navbar_fixed .menu_one .btn_get {
         box-shadow: none; }
-    .header_area.navbar_fixed .sticky_logo img {
-      display: none; }
-      .header_area.navbar_fixed .sticky_logo img + img {
-        display: block; }
+    .header_area.navbar_fixed .sticky_logo {
+      color: #3781ff; }
+      .header_area.navbar_fixed .sticky_logo:hover {
+        color: #3781ff; }
+      .header_area.navbar_fixed .sticky_logo img {
+        display: none; }
+        .header_area.navbar_fixed .sticky_logo img + img {
+          display: block; }
     .header_area.navbar_fixed .w_menu .nav-item .nav-link {
       color: #051441; }
       .header_area.navbar_fixed .w_menu .nav-item .nav-link:before {
@@ -1676,9 +1683,9 @@ a, .btn, button {
 
 /*================= Start breadcrumb_area css =================*/
 .breadcrumb_area {
-  background-image: -moz-linear-gradient(180deg, #5e2ced 0%, #a485fd 100%);
-  background-image: -webkit-linear-gradient(180deg, #5e2ced 0%, #a485fd 100%);
-  background-image: -ms-linear-gradient(180deg, #5e2ced 0%, #a485fd 100%);
+  background-image: -moz-linear-gradient(-86deg, #7121ff 0%, #21d4fd 100%);
+  background-image: -webkit-linear-gradient(-86deg, #7121ff 0%, #21d4fd 100%);
+  background-image: -ms-linear-gradient(-86deg, #7121ff 0%, #21d4fd 100%);
   position: relative;
   z-index: 1;
   padding: 235px 0px 125px;
@@ -7066,11 +7073,16 @@ input[type=number]::-webkit-inner-spin-button {
 .footer_dark_ten .dark_f_bottom .f_menu li a:hover, .footer_dark_ten .dark_f_bottom a {
   color: #23b1fe; }
 
+/* Header */
 .header_area_six {
   display: none; }
 
 .navbar_fixed .header_area_six {
   display: block; }
+
+/* Blog */
+.blog-recent-img {
+  max-width: 90px; }
 
 /* Footer */
 .custom_footer_bottom {

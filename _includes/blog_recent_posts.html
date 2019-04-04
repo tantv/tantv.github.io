@@ -7,7 +7,7 @@
     {% for post in site.posts limit:4 %}
         <div class="media post_item">
             <a href="{{ post.url }}">
-                <img src="{{post.thumb-img}}" alt="">
+                <img class="blog-recent-img" src="{{post.featured-img}}" alt="">
             </a>
             <div class="media-body">
                 <a href="{{ post.url }}"><h3 class="f_size_16 f_p f_400">{{ post.title }}</h3></a>

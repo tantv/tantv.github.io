@@ -192,7 +192,7 @@ active: home
                         <img class="img-fluid" src="/assets/img/logo1.png" alt="">
                     </div>
                     <div class="clients_item two wow fadeInLeft" data-wow-delay="0.3s">
-                        <img class="img-fluid" src="/assets/img/logo2h.png" alt="">
+                        <img class="img-fluid" src="/assets/img/logo2.png" alt="">
                     </div>
                     <div class="clients_item three wow fadeInLeft" data-wow-delay="0.4s">
                         <img class="img-fluid" src="/assets/img/logo3.png" alt="">

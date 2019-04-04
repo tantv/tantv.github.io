@@ -10,11 +10,10 @@ active: cloud
         <div class="row">
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="software_banner_content">
-                    <h2 class="f_500 f_size_50 w_color wow fadeInLeft" data-wow-delay="0.2s">We deliver the <span class="f_700">Software</span> You need, no more no less</h2>
-                    <p class="w_color f_size_18 l_height30 mt_30 wow fadeInLeft" data-wow-delay="0.4s">Why I say old chap that is spiffing off his nut arse pear shaped plastered Jeffrey bodge barney some dodgy.!</p>
+                    <h2 class="f_500 f_size_50 w_color wow fadeInLeft" data-wow-delay="0.2s"> Chúng tôi là <br><span class="f_700">EC-CUBE VN</span></h2>
+                    <p class="w_color f_size_18 l_height30 mt_30 wow fadeInLeft" data-wow-delay="0.4s">Chúng tôi sẽ giúp bạn thiết kế cho riêng mình một website <span class="f_700">Thương mại điện tử</span> đơn giản hơn bao giờ hết</p>
                     <div class="action_btn d-flex align-items-center mt_40 wow fadeInLeft" data-wow-delay="0.6s">
-                        <a href="#" class="software_banner_btn">Get Started</a>
-                        <a href="https://www.youtube.com/watch?v=sU3FkzUKHXU" class="video_btn popup-youtube"><div class="icon"><i class="ti-control-play"></i></div><span>Watch Video</span></a>
+                        <a href="/contact" class="software_banner_btn">Bắt đầu ngay</a>
                     </div>
                 </div>
             </div>
@@ -30,7 +29,7 @@ active: cloud
 <section class="saas_service_area sec_pad">
     <div class="container">
         <div class="sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
-            <h2 class="f_p f_size_30 l_height50 f_600 t_color"><span class="f_size_40 text-primary">3 lý do</span> để bạn chọn chúng tôi</h2>
+            <h2 class="f_p f_size_30 l_height50 f_600 t_color"><span class="f_size_40 text-primary">Tại sao</span> bạn chọn chúng tôi</h2>
             <p class="f_300 f_size_16">Well at public school cheeky bugger grub burke codswallop smashing only a quid<br> pardon you lavatory chip shop, geeza loo horse play.</p>
         </div>
         <div class="row saas_service_item">

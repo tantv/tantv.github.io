@@ -26,7 +26,7 @@ permalink: /contact/
                     <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Contact Info</h6>
                     <p class="f_300 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:3024437488">(+096) 302 443 7488</a></p>
                     <p class="f_300 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="tel:3024437488">(+096) 204 353 6684</a></p>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:eccubevn@gmail.com">eccubevn@gmail.com</a></p>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:eccubedotvn@gmail.com">eccubedotvn@gmail.com</a></p>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1">
