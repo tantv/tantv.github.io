@@ -25,10 +25,10 @@
             transition: width 0.3s linear;
         }
         &.active{
-            color: #5e2ced;
+            color: $main_color;
             &:before{
                 width: 100%;
-                background:#5e2ced;
+                background:$main_color;
                 right: auto;
                 left: 0;
             }
@@ -146,7 +146,7 @@
         transition: color 0.2s linear;
         color: #282835;
         &:hover{
-            color: #5e2ced;
+            color: $main_color;
         }
     }
     .links{
@@ -164,14 +164,14 @@
                 width: 0;
                 height: 1px;
                 bottom: 0;
-                background: #5e2ced;
+                background: $main_color;
                 position: absolute;
                 left: auto;
                 right: 0;
                 transition: width 0.3s linear;
             }
             &:hover{
-                color: #5e2ced;
+                color: $main_color;
                 &:before{
                     width: 100%;
                     right: auto;
@@ -262,7 +262,7 @@
         transition: color 0.2s linear;
         cursor: pointer;
         &:hover{
-            color: #5e2ced;
+            color: $main_color;
         }
     }
     .owl-prev{

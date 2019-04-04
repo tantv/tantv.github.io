@@ -36,7 +36,7 @@
         }
         .active{
             a{
-                color: #5e2ced;
+                color: $main_color;
             }
         }
     }
@@ -70,7 +70,7 @@
                 display: inline-block;
                 transition: all 0.3s linear;
                 &:hover{
-                    background: #5e2ced;
+                    background: $main_color;
                     color: #fff;
                 }
             }
@@ -88,7 +88,7 @@
             color: #282835;
             margin-bottom: 5px;
             &:hover{
-                color: #5e2ced;
+                color: $main_color;
             }
         }
         
@@ -141,13 +141,13 @@
             text-align: center;
             display: block;
             &.current {
-                background: #5e2ced;
+                background: $main_color;
                 color: #fff;
             }
 
             &:hover {
-                border-color: #5e2ced;
-                color: #5e2ced;
+                border-color: $main_color;
+                color: $main_color;
             }
         } 
 
@@ -155,11 +155,11 @@
             color: #677294;
 
             &:hover {
-                color: #5e2ced;
+                color: $main_color;
     
                 .page-numbers {
-                    border-color: #5e2ced;
-                    color: #5e2ced;
+                    border-color: $main_color;
+                    color: $main_color;
                 }
             }
         }
@@ -199,8 +199,8 @@
                     cursor: pointer;
                     &:hover{
                             color: #fff;
-                            background: #5e2ced;
-                            border-color: #5e2ced;
+                            background: $main_color;
+                            border-color: $main_color;
                         }
                     }
                 a{
@@ -219,8 +219,8 @@
                     cursor: pointer;
                     &:hover{
                         color: #fff;
-                        background: #5e2ced;
-                        border-color: #5e2ced;
+                        background: $main_color;
+                        border-color: $main_color;
                     }
                 }
             }
@@ -267,7 +267,7 @@
         float: right;
         text-align: right;
         .star-rating{
-            color: #5e2ced;
+            color: $main_color;
             line-height: 12px;
             &:before{
                 content: "\e60a\e60a\e60a\e60a";
@@ -297,14 +297,14 @@
     }
     .stock{
         font: 400 16px $pop;
-        color: #5e2ced;
+        color: $main_color;
         vertical-align: middle;
         padding-top: 20px;
         display: inline-block;
         &:before{
             content: "\e64c";
             font-family: 'themify';
-            color: #5e2ced;
+            color: $main_color;
             padding-right: 10px;
         }
     }
@@ -329,7 +329,7 @@
             border-radius: 15px;
             padding: 0px 15px 0px 0px;
             &:hover{
-                color: #5e2ced;
+                color: $main_color;
             }
         }
         .ar_top{
@@ -366,9 +366,9 @@
         .cart_btn,.wish_list{
             transition: all 0.2s linear;
             &:hover{
-                background: #5e2ced;
+                background: $main_color;
                 color: #fff;
-                border-color: #5e2ced;
+                border-color: $main_color;
             }
         }
     }
@@ -381,7 +381,7 @@
             a{
                 color: #677294;
                 &:hover{
-                    color: #5e2ced;
+                    color: $main_color;
                 }
             }
             span{
@@ -407,7 +407,7 @@
                     padding-right: 10px;
                     transition: all 0.2s linear;
                     &:hover{
-                        color: #5e2ced;
+                        color: $main_color;
                     }
                 }
             }
@@ -431,7 +431,7 @@
                 min-width: 148px;
                 text-align: center;
                 &.active{
-                    background:#5e2ced;
+                    background:$main_color;
                     color: #fff;
                 }
             }
@@ -486,7 +486,7 @@
                     font-size: 12px;
                     color: #c9ccd1;
                     &:nth-child(1),&:nth-child(2),&:nth-child(3){
-                        color: #5e2ced;
+                        color: $main_color;
                     }
                 }
             }
@@ -534,7 +534,7 @@
             font-size: 12px;
             color: #c9ccd1;
             &:nth-child(4),&:nth-child(2),&:nth-child(3){
-                color: #5e2ced;
+                color: $main_color;
             }
         }
     }
@@ -614,7 +614,7 @@ input[type=number]::-webkit-inner-spin-button {
             a{
                 color: #677294;
                 &:hover{
-                    color: #5e2ced;
+                    color: $main_color;
                 }
                 i{
                     font-size: 22px;
@@ -643,7 +643,7 @@ input[type=number]::-webkit-inner-spin-button {
                 line-height: 12px;
                 cursor: pointer;
                 &:hover{
-                    color: #5e2ced;
+                    color: $main_color;
                 }
             }
             .ar_top{
@@ -668,9 +668,9 @@ input[type=number]::-webkit-inner-spin-button {
     .cart_btn{
         font: 400 14px $pop;
         color: #fff;
-        border: 1px solid #5e2ced;
+        border: 1px solid $main_color;
         margin: 0px;
-        background: #5e2ced;
+        background: $main_color;
         padding: 15px 33px;
         border-radius: 4px;
         &.cart_btn_two{
@@ -703,9 +703,9 @@ input[type=number]::-webkit-inner-spin-button {
             border-radius: 4px;
             transition: all 0.2s linear;
             &:hover{
-                background: #5e2ced;
+                background: $main_color;
                 color: #fff !important;
-                border-color: #5e2ced;
+                border-color: $main_color;
             }
         }
     }
@@ -778,7 +778,7 @@ input[type=number]::-webkit-inner-spin-button {
         cursor: pointer;
         transition: all 0.2s linear;
         &:hover{
-            background: #5e2ced;
+            background: $main_color;
             color: #fff;
         }
     }
@@ -786,18 +786,18 @@ input[type=number]::-webkit-inner-spin-button {
 .checkout_button{
     font: 500 15px/30px $pop;
     color: #fff;
-    background: #5e2ced;
+    background: $main_color;
     border-radius: 0px;
     display: block;
     text-align: center;
     padding: 10px 0px;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
-    border: 1px solid #5e2ced;
+    border: 1px solid $main_color;
     transition: all 0.2s linear;
     &:hover{
         background: transparent;
-        color: #5e2ced;
+        color: $main_color;
     }
 }
 
@@ -808,12 +808,12 @@ input[type=number]::-webkit-inner-spin-button {
     color: #3d3f45;
     padding-bottom: 20px;
     i{
-        color: #5e2ced;
+        color: $main_color;
         padding-right: 8px;
         font-size: 14px;
     }
     a{
-        color: #5e2ced;
+        color: $main_color;
         font-weight: 300;
         &.collapsed{
             color: #9ca3b9;
@@ -950,15 +950,15 @@ input[type=number]::-webkit-inner-spin-button {
         .login_btn{
             float: right;
             font: 400 16px/48px $pop;
-            background: #5e2ced;
-            border: 1px solid #5e2ced;
+            background: $main_color;
+            border: 1px solid $main_color;
             color: #fff;
             border-radius: 4px;
             padding: 0px 38px;
             transition: all 0.2s linear;
             &:hover{
                 background: transparent;
-                color: #5e2ced;
+                color: $main_color;
             }
         }
         .coupon_form{
@@ -999,7 +999,7 @@ input[type=number]::-webkit-inner-spin-button {
                         color: #282835;
                     }
                     &.total{
-                        color: #5e2ced;
+                        color: $main_color;
                         font-size: 20px;
                     }
                     & + td{
@@ -1061,7 +1061,7 @@ input[type=number]::-webkit-inner-spin-button {
                             opacity: 1;
                         }
                         &:before{
-                            border-color: #5e2ced;
+                            border-color: $main_color;
                         }
                     }
                 }
@@ -1094,7 +1094,7 @@ input[type=number]::-webkit-inner-spin-button {
                         top: 4px;
                         left: 3px;
                         border-radius: 50%;
-                        background: #5e2ced;
+                        background: $main_color;
                         opacity: 0;
                     }
                 }
@@ -1120,7 +1120,7 @@ input[type=number]::-webkit-inner-spin-button {
                         opacity: 1;
                     }
                     &:before{
-                        border-color: #5e2ced;
+                        border-color: $main_color;
                     }
                 }
             }
@@ -1152,7 +1152,7 @@ input[type=number]::-webkit-inner-spin-button {
                 display: block;
                 width: 5px;
                 height: 7px;
-                border: solid #5e2ced;
+                border: solid $main_color;
                 border-width: 0 2px 2px 0;
                 -webkit-transform: rotate(45deg);
                 -ms-transform: rotate(45deg);
@@ -1166,8 +1166,8 @@ input[type=number]::-webkit-inner-spin-button {
     }
     .button{
         width: 100%;
-        background: #5e2ced;
-        border: 1px solid #5e2ced;
+        background: $main_color;
+        border: 1px solid $main_color;
         font: 500 16px/50px $pop;
         color: #fff;
         cursor: pointer;
@@ -1175,7 +1175,7 @@ input[type=number]::-webkit-inner-spin-button {
         transition: all 0.2s linear;
         &:hover{
             background: transparent;
-            color: #5e2ced;
+            color: $main_color;
         }
     }
 }

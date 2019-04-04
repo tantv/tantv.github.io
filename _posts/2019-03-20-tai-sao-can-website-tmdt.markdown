@@ -14,12 +14,12 @@ featured-img: /assets/img/blog/tmdt.png
         <div class="post_date">
             <h2>{{ page.date | date: '%d' }} <span>{{ page.date | date: '%B' }}</span></h2>
         </div>
-        <a href="#"><h5 class="f_p f_size_20 f_500 t_color mb-30 mt-3">{{ page.title }}</h5></a>
+        <h5 class="f_p f_size_20 f_500 t_color mb-30 mt-3">{{ page.title }}</h5>
         <p class="f_300 mb-30">
             Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.
         </p>
         <p class="f_300 mb-30">
-            Vì Internet kết nối được mọi lúc, mọi nơi, nên chỉ cần có một trang web, bạn có thể bán hàng cho bất kỳ khách hàng, ở bất kỳ nơi đâu chỉ cần có kết nối Internet. Trang web cũng là nhân viên đáng tin cậy, làm việc không ngơi nghỉ, trang web còn là cửa hàng trực tuyến rất hữu dụng, cung cấp hoàn toàn thông tin về sản phẩm của bạn. Trang web là phương tiện chăm sóc khách hàng tuyệt vời, Thông qua trang web, quý khách hàng có thể xúc tiến buôn bán, quảng bá dịch vụ và thương hiệu của mình nhanh hơn và rộng rãi hơn. Thiết kế website thương mại điện tử kết hợp với Marketing online sẽ giúp doanh nghiệp thu hút một nguồn khách hàng lớn, đẩy mạnh doanh thu bán hàng, cung cấp dịch vụ, tăng lợi nhuận một cách nhanh chóng.
+            Vì Internet kết nối được mọi lúc, mọi nơi, nên chỉ cần có một trang web, bạn có thể bán hàng cho bất kỳ khách hàng, ở bất kỳ nơi đâu chỉ cần có kết nối Internet. Trang web cũng là nhân viên đáng tin cậy, làm việc không ngơi nghỉ, trang web còn là cửa hàng trực tuyến rất hữu dụng, cung cấp hoàn toàn thông tin về sản phẩm của bạn.
         </p>
         <p class="f_300 mb-30">
              Trang web là phương tiện chăm sóc khách hàng tuyệt vời, Thông qua trang web, quý khách hàng có thể xúc tiến buôn bán, quảng bá dịch vụ và thương hiệu của mình nhanh hơn và rộng rãi hơn. Thiết kế website thương mại điện tử kết hợp với Marketing online sẽ giúp doanh nghiệp thu hút một nguồn khách hàng lớn, đẩy mạnh doanh thu bán hàng, cung cấp dịch vụ, tăng lợi nhuận một cách nhanh chóng.

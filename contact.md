@@ -8,8 +8,7 @@ permalink: /contact/
     <img class="breadcrumb_shap" src="/assets/img/banner_bg.png" alt="">
     <div class="container">
         <div class="breadcrumb_content text-center">
-            <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">Contac Us</h1>
-            <p class="f_300 w_color f_size_16 l_height26">Why I say old chap that is spiffing off his nut arse pear shaped plastered<br> Jeffrey bodge barney some dodgy.!!</p>
+            <h1 class="f_p f_700 f_size_50 w_color l_height50 mb_20">Liên hệ chúng tôi</h1>
         </div>
     </div>
 </section>
@@ -19,13 +18,13 @@ permalink: /contact/
         <div class="row">
             <div class="col-lg-3 pr-0">
                 <div class="contact_info_item">
-                    <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Office Address</h6>
-                    <p class="f_300 f_size_15">Melbourne’s GPO 434 Bourke St. Dhaka VIC 3074, Australia</p>
+                    <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Địa chỉ văn phòng</h6>
+                    <p class="f_300 f_size_15">Chợ, Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh 700000</p>
                 </div>
                 <div class="contact_info_item">
-                    <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Contact Info</h6>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Phone:</span> <a href="tel:3024437488">(+096) 302 443 7488</a></p>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="tel:3024437488">(+096) 204 353 6684</a></p>
+                    <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Thông tin liên hệ</h6>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Điện thoại:</span> <a href="tel:0979244937">(+084) 097 9244 937</a></p>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="tel:0979244937">(+084) 097 9244 937</a></p>
                     <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:eccubedotvn@gmail.com">eccubedotvn@gmail.com</a></p>
                 </div>
             </div>
@@ -39,7 +38,7 @@ permalink: /contact/
             <script type="text/javascript">var submitted=false;</script>
             <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" 
             onload="if(submitted) {window.location='/';}"></iframe>
-            <h2 class="f_p f_size_22 t_color3 f_600 l_height28 mt_100 mb_40">Leave a Message</h2>
+            <h2 class="f_p f_size_22 t_color3 f_600 l_height28 mt_100 mb_40">Gởi yêu cầu</h2>
             <form action="https://docs.google.com/forms/u/2/d/e/1FAIpQLSfO7B6Ss9QeFOYJmdCaPbXdk6twobHu9pwg5goKBHZP_WoVHg/formResponse" class="contact_form_box" method="post" id="contactForm" target="hidden_iframe" onsubmit="submitted=true;">
                 <div class="row">
                     <div class="col-lg-6">

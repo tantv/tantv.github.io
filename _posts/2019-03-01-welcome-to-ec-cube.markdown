@@ -15,7 +15,7 @@ featured-img: /assets/img/blog/welcome-eccube.png
         <div class="post_date">
             <h2>{{ page.date | date: '%d' }} <span>{{ page.date | date: '%B' }}</span></h2>
         </div>
-        <a href="#"><h5 class="f_p f_size_20 f_500 t_color mb-30 mt-3">{{ page.title }}</h5></a>
+        <h5 class="f_p f_size_20 f_500 t_color mb-30 mt-3">{{ page.title }}</h5>
         <p class="f_300 mb-30">
             Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.
         </p>

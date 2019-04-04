@@ -257,3 +257,12 @@ a,.btn,button{
 .sec_pad{
     padding: 120px 0px;
 }
+
+/* Custom */
+/* General */ 
+$main_color: #3781ff; // 400
+$main_color_300: #5e96fe;
+
+.main_color {
+    color: $main_color;
+  }

@@ -55,7 +55,7 @@
                 content: "";
                 width: 0;
                 height: 1px;
-                background: #6754e2;
+                background: $main_color;
                 position: absolute;
                 bottom: 0;
                 left: auto;
@@ -101,7 +101,7 @@
                     }
                     &:hover,&:focus,&.active{
                         > .nav-link{
-                            color: #5e2ced;
+                            color: $main_color;
                         }
                     }
                     &:first-child{
@@ -205,7 +205,7 @@
         }
         &.active{
             .nav-link{
-                color: #6754e2; 
+                color: $main_color; 
                 &:before{
                     width: 100%;
                     left: 0;
@@ -215,7 +215,7 @@
         }
         &:hover{
             .nav-link{
-                color: #6754e2; 
+                color: $main_color; 
                 &:before{
                     width: 100%;
                     left: 0;
@@ -329,8 +329,8 @@
         min-width: 120px;
         text-align: center;
         &:hover{
-            background: #5e2ced;
-            border-color: #5e2ced;
+            background: $main_color;
+            border-color: $main_color;
         }
     }
     .menu_toggle{
@@ -596,7 +596,7 @@
             left: 0;
             margin: 4px 0;
             display: block;
-            background: #5e2ced;
+            background: $main_color;
             border-radius: 3px;
             -webkit-transition: .2s ease-in-out;
             transition: .2s ease-in-out;
@@ -619,7 +619,7 @@
         display: block;
         span{
             display: block;
-            background: #5e2ced;
+            background: $main_color;
             border-radius: 3px;
             -webkit-transition: .2s ease-in-out;
             transition: .2s ease-in-out;
@@ -692,19 +692,19 @@
             padding-left: 30px;
         }
         .btn_get{
-            border-color:  #5e2ced;
-            background: #5e2ced;
+            border-color:  $main_color;
+            background: $main_color;
             color: #fff;
             &:hover{
                 background: transparent;
-                color: #5e2ced;
+                color: $main_color;
             }
         }
     }
     &.navbar_fixed{
         .menu_four{
             .btn_get{
-                border-color:  #5e2ced !important;
+                border-color:  $main_color !important;
             }
         }
         
@@ -717,7 +717,7 @@
         a{
             transition: color 0.3s linear;
             &:hover{
-                color: #5e2ced;
+                color: $main_color;
             }
         }
     }
@@ -782,7 +782,7 @@
         border-bottom: 1px solid #e5ddfc;
         a{
             &:hover{
-                color: #5e2ced !important;
+                color: $main_color !important;
             }
         }
         .header_contact_info{
@@ -825,7 +825,7 @@
             color: #282835;
             margin-left: 15px;
             &:hover{
-                color: #5e2ced;
+                color: $main_color;
             }
         }
     }
@@ -838,7 +838,7 @@
 
 .header_area_seven{
     .header_top{
-        background: #5e2ced;
+        background: $main_color;
         padding: 0px;
         a{
             line-height: 50px;
@@ -937,6 +937,16 @@
                         background: #051441;
                     }
                 }
+
+                &.active,
+                &:hover {
+                    .nav-link{
+                        color: $main_color;
+                        &:before{
+                            background: $main_color;
+                        }
+                    }
+                }
             }
         }
         .menu_two{
@@ -963,16 +973,16 @@
         } 
         .menu_four{
             .btn_get{
-                border: 2px solid #ccc5fa;
+                border: 2px solid $main_color_300;
                 box-shadow: none;
                 &:hover{
-                    border-color: #6754e2;
+                    border-color: $main_color;
                 }
             }
             .menu_toggle{
                 .hamburger,.hamburger-cross{
                     span{
-                        background:#6754e2; 
+                        background:$main_color; 
                     }
                 }
             } 

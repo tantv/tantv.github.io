@@ -316,14 +316,14 @@
         }
         &:hover{
             a{
-                color: #5e2ced;
+                color: $main_color;
                 &:before{
                     width: 132%;
-                    background:#5e2ced;
+                    background:$main_color;
                 }
             }
             i{
-                color: #5e2ced;
+                color: $main_color;
                 padding-left: 12px;
             }
         }
@@ -485,10 +485,10 @@
 .c_violet{
     color: #222d39;
     &:before{
-        background: #5e2ced;
+        background: $main_color;
     }
     &:hover{
-        color: #5e2ced;
+        color: $main_color;
     }
 }
 .d_product_content_two{
@@ -496,10 +496,10 @@
         .nav-item{
             .nav-link{
                 &:before{
-                    background: #5e2ced; 
+                    background: $main_color; 
                 }
                 &.active{
-                    color: #5e2ced;
+                    color: $main_color;
                 }
             }
         }
@@ -548,8 +548,8 @@
         &.three{
             text-shadow: 0px 14px 30px rgba(94, 44, 237, 0.4);
             color: #e03827;
-            background-image: -moz-linear-gradient( 0deg, #5e2ced 0%, #a485fd 100%);
-            background-image: -webkit-linear-gradient( 0deg, #5e2ced 0%, #a485fd 100%);
+            background-image: -moz-linear-gradient( 0deg, $main_color 0%, #a485fd 100%);
+            background-image: -webkit-linear-gradient( 0deg, $main_color 0%, #a485fd 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
@@ -564,9 +564,9 @@
             color: #4069eb;
         }
         &.c_violet:hover {
-            color: #5e2ced;
+            color: $main_color;
             &:before{
-                background: #5e2ced;
+                background: $main_color;
             }
         }
     }
@@ -604,7 +604,7 @@
                 position: absolute;
                 left: 0;
                 top: 5px;
-                color:#5e2ced;
+                color:$main_color;
             }
             &:last-child{
                 margin-bottom: 0px;

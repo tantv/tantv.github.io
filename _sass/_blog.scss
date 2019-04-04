@@ -40,7 +40,7 @@
         h2{
             font: 700 30px/20px $pop;
             margin-bottom: 0px;
-            color: #5e2ced;
+            color: $main_color;
             padding-top: 5px;
         }
         span{
@@ -56,7 +56,7 @@
     }
     h5{
         &:hover{
-            color: #5e2ced;
+            color: $main_color;
         }
     }
     .learn_btn_two{
@@ -69,9 +69,9 @@
             font-size: 12px;
         }
         &:hover{
-            color: #5e2ced;
+            color: $main_color;
             &:before{
-                background: #5e2ced;
+                background: $main_color;
             }
         }
     }
@@ -99,9 +99,9 @@
         box-shadow: none;
     }
     .blockquote{
-        color: #5e2ced;
+        color: $main_color;
         font-style: italic;
-        border-left: 4px solid #5e2ced;
+        border-left: 4px solid $main_color;
         padding-left: 35px;
     }
 }
@@ -116,7 +116,7 @@
             padding-right: 12px;
         }
         &:hover{
-            color: #5e2ced;
+            color: $main_color;
         }
         & + a{
             margin-left: 15px;
@@ -183,7 +183,7 @@
                 padding-top: 14px;
                 transition: all 0.1s linear;
                 &:hover{
-                    color: #5e2ced;
+                    color: $main_color;
                 }
             }
             .media-body{
@@ -232,7 +232,7 @@
                         color: #677294;
                     }
                     &:focus{
-                        border-color: #ccc5fa;
+                        border-color: $main_color_300;
                         border-radius: 3px;
                     }
                 }
@@ -249,7 +249,7 @@
                     z-index: 1;
                     cursor: pointer;
                     &:hover{
-                        color: #5e2ced;
+                        color: $main_color;
                     }
                 }
             }
@@ -265,7 +265,7 @@
                     h3{
                         color: #282835;
                         &:hover{
-                            color: #5e2ced;
+                            color: $main_color;
                         }
                     }
                     .entry_post_info{
@@ -298,8 +298,8 @@
                         }
                         &:hover{
                             span{
-                                color: #5e2ced;
-                                border-color: #5e2ced;
+                                color: $main_color;
+                                border-color: $main_color;
                             }
                         }
                     }
@@ -321,8 +321,8 @@
                     transition: all 0.2s linear;
                     margin: 5px; 
                     &:hover{
-                        background: #5e2ced;
-                        border-color: #5e2ced;
+                        background: $main_color;
+                        border-color: $main_color;
                         color: #fff;
                     }
                 }

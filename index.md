@@ -18,7 +18,7 @@ active: home
             <p class="w_color f_p f_size_18">Sáng tạo độc đáo <br>
                 Hệ thống tạo cửa hàng online chính thức có mặt ở Việt Nam</p>
             <div class="action_btn d-flex align-items-center mt_60">
-                <a href="contact.html" class="btn_hover agency_banner_btn">Tìm hiểu thêm</a>
+                <a href="/contact" class="btn_hover agency_banner_btn">Tìm hiểu thêm</a>
             </div>
         </div>
     </div>
@@ -90,7 +90,7 @@ active: home
             </div>
             <div class="col-lg-8">
                 <div class="row">
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.1s">
                         <div class="icon">
                             <img src="/assets/img/icon4.png" alt="">
                         </div>
@@ -99,7 +99,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Có thể đáp ứng ngay cả khi có các sửa đổi về luật thuế.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.2s">
                         <div class="icon">
                             <img src="/assets/img/icon7.png" alt="">
                         </div>
@@ -108,7 +108,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Cài được nhiều địa chỉ giao hàng trong 1 lần đặt hàng.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.3s">
                         <div class="icon w_color f_size_24 d-flex align-items-center justify-content-center">
                             <i class="ti-tablet"></i>
                         </div>
@@ -117,7 +117,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Trang bị tính linh hoạt đáp ứng đa thiết bị. Bạn có thể sử dụng với bất kỳ thiết bị nào.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.4s">
                         <div class="icon w_color f_size_24 d-flex align-items-center justify-content-center">
                             <i class="ti-receipt"></i>
                         </div>
@@ -126,7 +126,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Có thể tùy chỉnh mẫu của hóa đơn bán lẻ và hóa đơn giao hàng.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.6s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.5s">
                         <div class="icon w_color f_size_22 d-flex align-items-center justify-content-center">
                             <i class="ti-paint-bucket"></i>
                         </div>
@@ -135,7 +135,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Có thể tự do thay đổi giao diện và thiết kế cho từng khu vực khác nhau.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.7s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.6s">
                         <div class="icon w_color f_size_22">
                             <i class="ti-user"></i>
                         </div>
@@ -144,7 +144,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Đăng ký bằng nhiều quản trị viên, Cấp tài khoản riêng cho quản trị viên.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.8s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.7s">
                         <div class="icon w_color f_size_22">
                             <i class="ti-stats-up"></i>
                         </div>
@@ -153,7 +153,7 @@ active: home
                             <p class="f_400 f_size_15 w_color">Hiển thị kết quả thống kê doanh thu theo mốc thời gian, sản phẩm và năm.</p>
                         </div>
                     </div>
-                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.9s">
+                    <div class="col-md-6 media payment_service_item wow fadeInUp" data-wow-delay="0.8s">
                         <div class="icon w_color f_size_28 d-flex align-items-center justify-content-center">
                             <i class="ti-location-arrow"></i>
                         </div>
@@ -183,7 +183,7 @@ active: home
                     <p>Là phần mềm miễn phí nhưng EC-CUBE® có tất cả các chức năng cơ bản để "khai trương" ngay cho bạn một cửa hàng.
                     Đối với các tính năng còn thiếu thì có thể bổ sung từ hơn 800 loại plugin trên store.
                     Hơn nữa, nếu có kiến thức về lập trình thì có thể tuỳ chỉnh lại theo ý muốn.</p>
-                    <a href="contact.html" class="btn_hover agency_banner_btn pay_btn pay_btn_two">Liên hệ chúng tôi</a>
+                    <a href="/contact" class="btn_hover agency_banner_btn pay_btn pay_btn_two">Liên hệ chúng tôi</a>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -330,7 +330,7 @@ active: home
           </div>
           <div class="col-lg-5">
               <div class="testimonial_img">
-                  <a href="contact.html">
+                  <a href="/contact">
                       <img src="/assets/img/testimonial_img.png" alt="" class="img-fluid">
                   </a>
               </div>
@@ -349,7 +349,7 @@ active: home
             </div>
             <h2 class="f_p t_color f_700">Hơn 30,000 cửa hàng trên toàn Nhật Bản</h2>
             <p>Với EC-CUBE® bạn có thể thỏa sức sáng tạo từ mẫu mã sản phẩm đến phương thức bán hàng theo ý muốn của mình.</p>
-            <a href="contact.html" class="btn_hover agency_banner_btn pay_btn pay_btn_two">Liên hệ chúng tôi</a>
+            <a href="/contact" class="btn_hover agency_banner_btn pay_btn pay_btn_two">Liên hệ chúng tôi</a>
         </div>
     </div>
 </section>

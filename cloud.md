@@ -28,18 +28,18 @@ active: cloud
 
 <section class="saas_service_area sec_pad">
     <div class="container">
-        <div class="sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.3s">
+        <div class="sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.2s">
             <h2 class="f_p f_size_30 l_height50 f_600 t_color"><span class="f_size_40 text-primary">Tại sao</span> bạn chọn chúng tôi</h2>
             <p class="f_300 f_size_16">Well at public school cheeky bugger grub burke codswallop smashing only a quid<br> pardon you lavatory chip shop, geeza loo horse play.</p>
         </div>
         <div class="row saas_service_item">
             <div class="col-lg-6">
-                <div class="saas_service_img wow fadeInLeft" data-wow-delay="0.5s">
+                <div class="saas_service_img wow fadeInLeft" data-wow-delay="0.3s">
                     <img src="/assets/img/cloud/service_one.png" alt="">
                 </div>
             </div>
             <div class="col-lg-6 d-flex align-items-center">
-                <div class="saas_service_content pr_100 wow fadeInRight" data-wow-delay="0.7s">
+                <div class="saas_service_content pr_100 wow fadeInRight" data-wow-delay="0.4s">
                     <div class="icon icon_one"><i class="ti-control-shuffle"></i></div>
                     <h4 class="f_500 f_p t_color">Phát triển cùng đội ngũ EC-CUBE</h4>
                     <p class="f_p f_300">Harry don't get shirty with me loo hanky panky in my flat bog jolly good blag bamboozled the BBC well fantastic, excuse my French crikey geeza spiffing lost the plot codswallop brilliant blower pardon.!</p>

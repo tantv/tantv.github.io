@@ -29,13 +29,13 @@
                 color: #b4b9c8;
             }
             &:focus{
-                border-color: #6754e2;
+                border-color: $main_color;
             }
         }
         .btn_submit{
             position: absolute;
             right: 8px;
-            background: #6754e2;
+            background: $main_color;
             color: #fff;
             top: 50%;
             transform: translateY(-50%);
@@ -154,7 +154,7 @@
                     color: #aeb4ba;
                 }
                 &:focus{
-                    border-color: #6754e2;
+                    border-color: $main_color;
                 }
             }
         }
@@ -343,7 +343,7 @@
 }
 .agency_content_two{
     .agency_banner_btn{
-        color: #5e2ced;
+        color: $main_color;
         border-color: #fff;
         background: #fff;
     }
@@ -508,7 +508,7 @@
     }
     .agency_banner_btn{
         background: #fff;
-        color: #5956fe;
+        color: $main_color;
         border-color: #fff;
     }
     .agency_banner_btn_two{
