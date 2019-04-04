@@ -1413,7 +1413,7 @@ a, .btn, button {
     left: 0;
     top: 0;
     z-index: -1;
-    background: url("../img/home5/shap_tecture.png") no-repeat scroll center 0/cover; }
+    background: url("../img/cloud/shap_tecture.png") no-repeat scroll center 0/cover; }
 
 /*=============== saas banner area ================*/
 .saas_banner_area {
@@ -2885,7 +2885,7 @@ a, .btn, button {
 /*============== developer_product_area css ================*/
 .developer_product_area {
   background: #f9f9fc;
-  padding: 160px 0px; }
+  padding: 80px 0px; }
 
 .developer_product_content {
   padding-right: 100px; }
