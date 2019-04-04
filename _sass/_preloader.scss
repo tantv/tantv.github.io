@@ -18,7 +18,7 @@
             animation: spinner 1s infinite linear;
             border-radius: 50%;
             border: 3px solid rgba(0, 0, 0, 0.2);
-            border-top-color: #000000;
+            border-top-color: $main_color;
             height: 9em;
             margin: 0 auto 3.5em auto;
             width: 9em;
@@ -28,11 +28,11 @@
             text-align: center;
             user-select: none;
             .letters-loading{
-                color: rgba(0, 0, 0, 0.2);
+                color: rgba(55, 129, 255, 0.2);
                 position: relative;
                 &:before{
                     animation: letters-loading 4s infinite;
-                    color: #000000;
+                    color: $main_color;
                     content: attr(data-text-preloader);
                     left: 0;
                     opacity: 0;
