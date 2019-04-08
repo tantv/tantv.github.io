@@ -11,6 +11,42 @@
   max-width: 90px;
 }
 
+/* Social */
+.social-template {
+  margin-bottom: 0;
+
+  li {
+    display: inline-block;
+  }
+
+  span {
+    display: none;
+  }
+}
+
+.post_share {
+  .social-template {
+    span {
+      display: inline-block;
+    }
+
+    li {
+      &.vm {
+        display: none;
+      }
+
+      + li {
+        margin-left: 15px;
+      }
+    }
+  }
+}
+
+/* .action_area_two */
+.action_area_two {
+  background: none;
+}
+
 /* Footer */
 .custom_footer_bottom {
   border-top: 1px solid #e0e3ef;

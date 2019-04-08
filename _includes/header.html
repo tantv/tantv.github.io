@@ -10,12 +10,7 @@
                         </ul>
                     </div>
                     <div class="col-lg-6">
-                        <ul class="header_social_icon list-unstyled">
-                            <li><a href="#"><i class="ti-facebook"></i></a></li>
-                            <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                            <li><a href="#"><i class="ti-vimeo-alt"></i></a></li>
-                            <li><a href="#"><i class="ti-pinterest"></i></a></li>
-                        </ul>
+                        {% include social.html social-class="header_social_icon list-unstyled" %}
                     </div>
                 </div>
             </div>
@@ -46,8 +41,8 @@
                         Trang chủ
                         </a>
                     </li>
-                    <li class="nav-item {% if page.active == 'cloud' %} active {% endif %}">
-                        <a class="nav-link" href="/cloud" class="nav-link">Dịch vụ</a>
+                    <li class="nav-item {% if page.active == 'eccube' %} active {% endif %}">
+                        <a class="nav-link" href="/eccube" class="nav-link">Về EC-CUBE</a>
                     </li>
                     <li class="nav-item {% if page.active == 'about' %} active {% endif %}">
                         <a class="nav-link" href="/about" class="nav-link">Về EC-DEV VN</a>

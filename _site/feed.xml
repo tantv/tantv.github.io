@@ -1,134 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-04T22:31:22+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Tại sao phải có website thương mại điện tử</title><link href="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html" rel="alternate" type="text/html" title="Tại sao phải có website thương mại điện tử" /><published>2019-03-20T00:00:00+07:00</published><updated>2019-03-20T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html">&lt;div class=&quot;blog_single&quot;&gt;
-    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog/tmdt.png&quot; alt=&quot;&quot; /&gt;
-    &lt;div class=&quot;blog_content&quot;&gt;
-        &lt;div class=&quot;post_date&quot;&gt;
-            &lt;h2&gt;20 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
-        &lt;/div&gt;
-        &lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30 mt-3&quot;&gt;Tại sao phải có website thương mại điện tử&lt;/h5&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.
-        &lt;/p&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Vì Internet kết nối được mọi lúc, mọi nơi, nên chỉ cần có một trang web, bạn có thể bán hàng cho bất kỳ khách hàng, ở bất kỳ nơi đâu chỉ cần có kết nối Internet. Trang web cũng là nhân viên đáng tin cậy, làm việc không ngơi nghỉ, trang web còn là cửa hàng trực tuyến rất hữu dụng, cung cấp hoàn toàn thông tin về sản phẩm của bạn.
-        &lt;/p&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-             Trang web là phương tiện chăm sóc khách hàng tuyệt vời, Thông qua trang web, quý khách hàng có thể xúc tiến buôn bán, quảng bá dịch vụ và thương hiệu của mình nhanh hơn và rộng rãi hơn. Thiết kế website thương mại điện tử kết hợp với Marketing online sẽ giúp doanh nghiệp thu hút một nguồn khách hàng lớn, đẩy mạnh doanh thu bán hàng, cung cấp dịch vụ, tăng lợi nhuận một cách nhanh chóng.
-        &lt;/p&gt;
-        &lt;blockquote class=&quot;blockquote mb_40&quot;&gt;
-            &lt;h6 class=&quot;mb-0 f_size_18 l_height30 f_p f_400&quot;&gt;Tại sao cần có website thương mại điện tử?&lt;/h6&gt;
-        &lt;/blockquote&gt;
-        &lt;div class=&quot;container mb-5&quot;&gt;
-            &lt;div class=&quot;row&quot;&gt;
-                &lt;div class=&quot;col-12 saas_featured_info&quot;&gt;
-                    &lt;div class=&quot;row mb_30&quot;&gt;
-                        &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                            &lt;div class=&quot;saas_featured_item s_featured_one wow fadeInUp&quot; data-wow-delay=&quot;0.3s&quot; style=&quot;visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;&quot;&gt;
-                                &lt;i class=&quot;ti-crown f_size_30&quot;&gt;&lt;/i&gt;
-                                &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Bộ mặt của doanh nghiệp&lt;/h6&gt;
-                                &lt;p class=&quot;mb-0&quot;&gt;Website là nơi phản ánh hình hảnh của doanh nghiệp đến với khách hàng. Một website chỉnh chu phản ánh một doanh nghiệp chuyên nghiệp.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                            &lt;div class=&quot;saas_featured_item s_featured_two wow fadeInUp&quot; data-wow-delay=&quot;0.5s&quot; style=&quot;visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;&quot;&gt;
-                                &lt;i class=&quot;ti-cup f_size_30&quot;&gt;&lt;/i&gt;
-                                &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Nâng tầm thương hiệu&lt;/h6&gt;
-                                &lt;p class=&quot;mb-0&quot;&gt;Một Website chuyên nghiệp, cuốn hút giúp khách hàng có ấn tượng tốt hơn đặt nhiều niềm tin hơn về doanh nghiệp, thương hiệu của bạn được đánh giá cao hơn các đối thủ.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                            &lt;div class=&quot;saas_featured_item s_featured_three wow fadeInUp&quot; data-wow-delay=&quot;0.7s&quot; style=&quot;visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;&quot;&gt;
-                                &lt;i class=&quot;ti-user f_size_30&quot;&gt;&lt;/i&gt;
-                                &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Khách hàng đang ở trên internet&lt;/h6&gt;
-                                &lt;p class=&quot;mb-0&quot;&gt;Khách hàng hiện nay thích ngồi ở nhà lướt web và tìm kiếm mọi thông tin về sản phẩm và dịch vụ họ quan tâm. Nếu không có một website thì quả thật là thiếu sót.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
-                        &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                            &lt;div class=&quot;saas_featured_item s_featured_four wow fadeInUp&quot; data-wow-delay=&quot;0.9s&quot; style=&quot;visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;&quot;&gt;
-                                &lt;i class=&quot;ti-server f_size_30&quot;&gt;&lt;/i&gt;
-                                &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Tiết kiệm chi phí nhưng hiệu quả&lt;/h6&gt;
-                                &lt;p class=&quot;mb-0&quot;&gt;Website là công cụ nhanh và hiệu quả nhất để bạn tiếp cận với khách hàng trong khi đó chi phí bỏ ra so với các hình thức marketing khác là rất thấp.&lt;/p&gt;
-                            &lt;/div&gt;
-                        &lt;/div&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-08T10:29:22+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Tại sao phải có website thương mại điện tử</title><link href="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html" rel="alternate" type="text/html" title="Tại sao phải có website thương mại điện tử" /><published>2019-03-20T00:00:00+07:00</published><updated>2019-03-20T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html">&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.
+&lt;/p&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Vì Internet kết nối được mọi lúc, mọi nơi, nên chỉ cần có một trang web, bạn có thể bán hàng cho bất kỳ khách hàng, ở bất kỳ nơi đâu chỉ cần có kết nối Internet. Trang web cũng là nhân viên đáng tin cậy, làm việc không ngơi nghỉ, trang web còn là cửa hàng trực tuyến rất hữu dụng, cung cấp hoàn toàn thông tin về sản phẩm của bạn.
+&lt;/p&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+        Trang web là phương tiện chăm sóc khách hàng tuyệt vời, Thông qua trang web, quý khách hàng có thể xúc tiến buôn bán, quảng bá dịch vụ và thương hiệu của mình nhanh hơn và rộng rãi hơn. Thiết kế website thương mại điện tử kết hợp với Marketing online sẽ giúp doanh nghiệp thu hút một nguồn khách hàng lớn, đẩy mạnh doanh thu bán hàng, cung cấp dịch vụ, tăng lợi nhuận một cách nhanh chóng.
+&lt;/p&gt;
+
+&lt;blockquote class=&quot;blockquote mb_40&quot;&gt;
+    &lt;h6 class=&quot;mb-0 f_size_18 l_height30 f_p f_400&quot;&gt;Tại sao cần có website thương mại điện tử?&lt;/h6&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;container mb-5&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;col-12 saas_featured_info&quot;&gt;
+            &lt;div class=&quot;row mb_30&quot;&gt;
+                &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_one wow fadeInUp&quot; data-wow-delay=&quot;0.3s&quot; style=&quot;visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;&quot;&gt;
+                        &lt;i class=&quot;ti-crown f_size_30&quot;&gt;&lt;/i&gt;
+                        &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Bộ mặt của doanh nghiệp&lt;/h6&gt;
+                        &lt;p class=&quot;mb-0&quot;&gt;Website là nơi phản ánh hình hảnh của doanh nghiệp đến với khách hàng. Một website chỉnh chu phản ánh một doanh nghiệp chuyên nghiệp.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_two wow fadeInUp&quot; data-wow-delay=&quot;0.5s&quot; style=&quot;visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;&quot;&gt;
+                        &lt;i class=&quot;ti-cup f_size_30&quot;&gt;&lt;/i&gt;
+                        &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Nâng tầm thương hiệu&lt;/h6&gt;
+                        &lt;p class=&quot;mb-0&quot;&gt;Một Website chuyên nghiệp, cuốn hút giúp khách hàng có ấn tượng tốt hơn đặt nhiều niềm tin hơn về doanh nghiệp, thương hiệu của bạn được đánh giá cao hơn các đối thủ.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_three wow fadeInUp&quot; data-wow-delay=&quot;0.7s&quot; style=&quot;visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;&quot;&gt;
+                        &lt;i class=&quot;ti-user f_size_30&quot;&gt;&lt;/i&gt;
+                        &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Khách hàng đang ở trên internet&lt;/h6&gt;
+                        &lt;p class=&quot;mb-0&quot;&gt;Khách hàng hiện nay thích ngồi ở nhà lướt web và tìm kiếm mọi thông tin về sản phẩm và dịch vụ họ quan tâm. Nếu không có một website thì quả thật là thiếu sót.&lt;/p&gt;
+                    &lt;/div&gt;
+                &lt;/div&gt;
+                &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_four wow fadeInUp&quot; data-wow-delay=&quot;0.9s&quot; style=&quot;visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;&quot;&gt;
+                        &lt;i class=&quot;ti-server f_size_30&quot;&gt;&lt;/i&gt;
+                        &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Tiết kiệm chi phí nhưng hiệu quả&lt;/h6&gt;
+                        &lt;p class=&quot;mb-0&quot;&gt;Website là công cụ nhanh và hiệu quả nhất để bạn tiếp cận với khách hàng trong khi đó chi phí bỏ ra so với các hình thức marketing khác là rất thấp.&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
             &lt;/div&gt;
         &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.</summary></entry><entry><title type="html">Chính thức release nền tảng thương mại điện tử EC-CUBE tại Việt Nam</title><link href="http://localhost:4000/blog/2019/03/06/ec-cube-release.html" rel="alternate" type="text/html" title="Chính thức release nền tảng thương mại điện tử EC-CUBE tại Việt Nam" /><published>2019-03-06T00:00:00+07:00</published><updated>2019-03-06T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/06/ec-cube-release</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/06/ec-cube-release.html">&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.
+&lt;/p&gt;
 
-        &lt;div class=&quot;post_share&quot;&gt;
-  &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
-  &lt;div class=&quot;flex&quot;&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
-  &lt;/div&gt;
+&lt;ul class=&quot;list-unstyled mb-4 f_300&quot;&gt;
+    &lt;li&gt;&lt;i class=&quot;ti-link mr-2&quot;&gt;&lt;/i&gt; EC-CUBE: &lt;a href=&quot;https://ec-cube.vn/download/index.html&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;https://ec-cube.vn/download/index.html&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;i class=&quot;ti-link mr-2&quot;&gt;&lt;/i&gt; Plugin Onepay: &lt;a href=&quot;https://ec-cube.vn/download/plugin.html&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;https://ec-cube.vn/download/plugin.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Nền tảng thương mại điện tử EC-CUBE được phát triển tại Nhật Bản bởi công ty Lockon từ năm 2006 và triển khai ở Việt Nam bởi công ty TPS. EC-CUBE mang đến giải pháp kinh doanh cho thị trường bán hàng online, với các ưu điểm:
+&lt;/p&gt;
+
+&lt;div class=&quot;job_deatails_content&quot;&gt;
+    &lt;ul class=&quot;list-unstyled mb-0&quot;&gt;
+        &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; Tải về và sử dụng &lt;span class=&quot;main_color&quot;&gt;HOÀN TOÀN MIỄN PHÍ&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; Thiết kế website bán hàng online &lt;span class=&quot;main_color&quot;&gt;NGAY LẬP TỨC&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; &lt;span class=&quot;main_color&quot;&gt;ĐA DẠNG HÓA&lt;/span&gt; website của bạn với các chức năng: đặt hàng tùy chỉnh, giao diện đặc sắc,...&lt;/li&gt;
+        &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; Tiện lợi tích hợp sẵn chức năng &lt;span class=&quot;main_color&quot;&gt;THANH TOÁN TRỰC TUYẾN&lt;/span&gt; bằng các loại thẻ Quốc tế Visa, Master, JCB, Amex, CUP, Thẻ ATM nội địa, QR Code của hầu hết các ngân hàng qua cổng thanh toán OnePAY.&lt;/li&gt;
+    &lt;/ul&gt;
 &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.</summary></entry><entry><title type="html">Chính thức release nền tảng thương mại điện tử EC-CUBE tại Việt Nam</title><link href="http://localhost:4000/blog/2019/03/06/ec-cube-release.html" rel="alternate" type="text/html" title="Chính thức release nền tảng thương mại điện tử EC-CUBE tại Việt Nam" /><published>2019-03-06T00:00:00+07:00</published><updated>2019-03-06T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/06/ec-cube-release</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/06/ec-cube-release.html">&lt;div class=&quot;blog_single&quot;&gt;
-    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog/eccube-release.png&quot; alt=&quot;&quot; /&gt;
-    &lt;div class=&quot;blog_content&quot;&gt;
-        &lt;div class=&quot;post_date&quot;&gt;
-            &lt;h2&gt;06 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
-        &lt;/div&gt;
-        &lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30 mt-3&quot;&gt;Chính thức release nền tảng thương mại điện tử EC-CUBE tại Việt Nam&lt;/h5&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.
-        &lt;/p&gt;
-        &lt;ul class=&quot;list-unstyled mb-4 f_300&quot;&gt;
-            &lt;li&gt;&lt;i class=&quot;ti-link mr-2&quot;&gt;&lt;/i&gt; EC-CUBE: &lt;a href=&quot;https://ec-cube.vn/download/index.html&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;https://ec-cube.vn/download/index.html&lt;/a&gt;&lt;/li&gt;
-            &lt;li&gt;&lt;i class=&quot;ti-link mr-2&quot;&gt;&lt;/i&gt; Plugin Onepay: &lt;a href=&quot;https://ec-cube.vn/download/plugin.html&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;https://ec-cube.vn/download/plugin.html&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Nền tảng thương mại điện tử EC-CUBE được phát triển tại Nhật Bản bởi công ty Lockon từ năm 2006 và triển khai ở Việt Nam bởi công ty TPS. EC-CUBE mang đến giải pháp kinh doanh cho thị trường bán hàng online, với các ưu điểm:
-        &lt;/p&gt;
-        &lt;div class=&quot;job_deatails_content&quot;&gt;
-            &lt;ul class=&quot;list-unstyled mb-0&quot;&gt;
-                &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; Tải về và sử dụng &lt;span class=&quot;main_color&quot;&gt;HOÀN TOÀN MIỄN PHÍ&lt;/span&gt;&lt;/li&gt;
-                &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; Thiết kế website bán hàng online &lt;span class=&quot;main_color&quot;&gt;NGAY LẬP TỨC&lt;/span&gt;&lt;/li&gt;
-                &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; &lt;span class=&quot;main_color&quot;&gt;ĐA DẠNG HÓA&lt;/span&gt; website của bạn với các chức năng: đặt hàng tùy chỉnh, giao diện đặc sắc,...&lt;/li&gt;
-                &lt;li&gt;&lt;i class=&quot;ti-arrow-right&quot;&gt;&lt;/i&gt; Tiện lợi tích hợp sẵn chức năng &lt;span class=&quot;main_color&quot;&gt;THANH TOÁN TRỰC TUYẾN&lt;/span&gt; bằng các loại thẻ Quốc tế Visa, Master, JCB, Amex, CUP, Thẻ ATM nội địa, QR Code của hầu hết các ngân hàng qua cổng thanh toán OnePAY.&lt;/li&gt;
-            &lt;/ul&gt;
-        &lt;/div&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Hãy trở thành một trong những người đầu tiên tạo cửa hàng thương mại điện tử của riêng bạn với EC-CUBE.
-        &lt;/p&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            ※EC-CUBE với phiên bản Tiếng Việt được phát triển dựa trên EC-CUBE bản 4.0.1 (Tháng 1/2019) tại Nhật Bản
-        &lt;/p&gt;
-        &lt;div class=&quot;post_share&quot;&gt;
-  &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
-  &lt;div class=&quot;flex&quot;&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">EC-CUBE với phiên bản Tiếng Việt và Plugin cổng thanh toán Onepay sẽ chính thức được release và có thể tải về miễn phí tại đây.</summary></entry><entry><title type="html">Nền tảng thương mại điện tử mã nguồn mở số 1 Nhật Bản EC-CUBE chuẩn bị ra mắt thị trường Việt Nam</title><link href="http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube.html" rel="alternate" type="text/html" title="Nền tảng thương mại điện tử mã nguồn mở số 1 Nhật Bản EC-CUBE chuẩn bị ra mắt thị trường Việt Nam" /><published>2019-03-01T00:00:00+07:00</published><updated>2019-03-01T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube.html">&lt;div class=&quot;blog_single&quot;&gt;
-    &lt;img class=&quot;img-fluid&quot; src=&quot;/assets/img/blog/welcome-eccube.png&quot; alt=&quot;&quot; /&gt;
-    &lt;div class=&quot;blog_content&quot;&gt;
-        &lt;div class=&quot;post_date&quot;&gt;
-            &lt;h2&gt;01 &lt;span&gt;March&lt;/span&gt;&lt;/h2&gt;
-        &lt;/div&gt;
-        &lt;h5 class=&quot;f_p f_size_20 f_500 t_color mb-30 mt-3&quot;&gt;Nền tảng thương mại điện tử mã nguồn mở số 1 Nhật Bản EC-CUBE chuẩn bị ra mắt thị trường Việt Nam&lt;/h5&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.
-        &lt;/p&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Từ đầu năm nay 2019, công ty EC-CUBE Nhật Bản đã phối hợp với đối tác tại Việt Nam là công ty cổ phần phần mềm TPS để thực hiện các bước chuẩn bị để ra mắt người dùng. TPS là đối tác lâu năm với EC-CUBE trong việc xây dựng và bảo trì các website thương mại điện tử sử dụng nền tảng EC-CUBE. Với kinh nghiệm nhiều năm trong ngành phần mềm, hiện tại công ty TPS đang phối hợp với phía Nhật để gấp rút hoàn thiện việc chuyển đổi toàn bộ hệ thống để hỗ trợ tiếng Việt song song với cập nhật lại các tính năng cần thiết để phù hợp hơn với thị trường Việt Nam. TPS cũng sẽ đại diện EC-CUBE trong tất cả các vấn để liên quan đến triển khai, hỗ trợ và đào tạo kỹ thuật cũng như bản quyền tại thị trường Việt Nam.
-        &lt;/p&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Với EC-CUBE platform, các chủ cửa hàng và doanh nghiệp có nhu cầu xây dựng 1 website thương mai điện tử có đầy đủ các tính năng cơ bản như giỏ hàng, thanh toán online, quản lý sản phầm, tồn kho ... sẽ không phải mất nhiều thời gian. Người dùng chỉ cần download EC-CUBE platform sau đó tiến hành cài đặt lên 1 hosting có sẵn trong vòng vài phút là có thể bắt đầu việc quản lý 1 trang bán hàng cho riêng mình (vui lòng tham khảo &lt;a href=&quot;http://ec-cube.vn/product/function.html&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;http://ec-cube.vn/product/function.html&lt;/a&gt; cho danh sách các tính năng của EC-CUBE).
-        &lt;/p&gt;
-        &lt;p class=&quot;f_300 mb-30&quot;&gt;
-            Hiện tại, EC-CUBE chỉ cung cấp cho khánh hàng 1 hình thức triển khai thông qua việc download và cài đặt trực tiếp trên hosting, nhưng kể từ tháng 4/2019 EC-CUBE sẽ được triển khai trên nền tảng cloud giúp cho khách hàng càng nhanh chóng khởi tạo 1 trang web bán hàng mới đồng thời không phải lo về các vấn đề chuẩn bị môi trường cũng như phương thức cài đặt. Việc triển khai trên Cloud này sẽ được thực hiện ở thị trường Nhật Bản trước, chúng tôi sẽ thông báo đến quý khách hàng chi tiết về kế hoạch triển khai ở Việt Nam trong thời gian sớm nhất.
-        &lt;/p&gt;
-        &lt;div class=&quot;post_share&quot;&gt;
-  &lt;div class=&quot;post-nam&quot;&gt; Share: &lt;/div&gt;
-  &lt;div class=&quot;flex&quot;&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-facebook&quot;&gt;&lt;/i&gt;Facebook&lt;/a&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-twitter&quot;&gt;&lt;/i&gt;Twitter&lt;/a&gt;
-      &lt;a href=&quot;#&quot;&gt;&lt;i class=&quot;ti-pinterest&quot;&gt;&lt;/i&gt;Pinterest&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.</summary></entry></feed>
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Hãy trở thành một trong những người đầu tiên tạo cửa hàng thương mại điện tử của riêng bạn với EC-CUBE.
+&lt;/p&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    ※EC-CUBE với phiên bản Tiếng Việt được phát triển dựa trên EC-CUBE bản 4.0.1 (Tháng 1/2019) tại Nhật Bản
+&lt;/p&gt;</content><author><name></name></author><summary type="html">EC-CUBE với phiên bản Tiếng Việt và Plugin cổng thanh toán Onepay sẽ chính thức được release và có thể tải về miễn phí tại đây.</summary></entry><entry><title type="html">Nền tảng thương mại điện tử mã nguồn mở số 1 Nhật Bản EC-CUBE chuẩn bị ra mắt thị trường Việt Nam</title><link href="http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube.html" rel="alternate" type="text/html" title="Nền tảng thương mại điện tử mã nguồn mở số 1 Nhật Bản EC-CUBE chuẩn bị ra mắt thị trường Việt Nam" /><published>2019-03-01T00:00:00+07:00</published><updated>2019-03-01T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube.html">&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.
+&lt;/p&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Từ đầu năm nay 2019, công ty EC-CUBE Nhật Bản đã phối hợp với đối tác tại Việt Nam là công ty cổ phần phần mềm TPS để thực hiện các bước chuẩn bị để ra mắt người dùng. TPS là đối tác lâu năm với EC-CUBE trong việc xây dựng và bảo trì các website thương mại điện tử sử dụng nền tảng EC-CUBE. Với kinh nghiệm nhiều năm trong ngành phần mềm, hiện tại công ty TPS đang phối hợp với phía Nhật để gấp rút hoàn thiện việc chuyển đổi toàn bộ hệ thống để hỗ trợ tiếng Việt song song với cập nhật lại các tính năng cần thiết để phù hợp hơn với thị trường Việt Nam. TPS cũng sẽ đại diện EC-CUBE trong tất cả các vấn để liên quan đến triển khai, hỗ trợ và đào tạo kỹ thuật cũng như bản quyền tại thị trường Việt Nam.
+&lt;/p&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Với EC-CUBE platform, các chủ cửa hàng và doanh nghiệp có nhu cầu xây dựng 1 website thương mai điện tử có đầy đủ các tính năng cơ bản như giỏ hàng, thanh toán online, quản lý sản phầm, tồn kho ... sẽ không phải mất nhiều thời gian. Người dùng chỉ cần download EC-CUBE platform sau đó tiến hành cài đặt lên 1 hosting có sẵn trong vòng vài phút là có thể bắt đầu việc quản lý 1 trang bán hàng cho riêng mình (vui lòng tham khảo &lt;a href=&quot;http://ec-cube.vn/product/function.html&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;http://ec-cube.vn/product/function.html&lt;/a&gt; cho danh sách các tính năng của EC-CUBE).
+&lt;/p&gt;
+
+&lt;p class=&quot;f_300 mb-30&quot;&gt;
+    Hiện tại, EC-CUBE chỉ cung cấp cho khánh hàng 1 hình thức triển khai thông qua việc download và cài đặt trực tiếp trên hosting, nhưng kể từ tháng 4/2019 EC-CUBE sẽ được triển khai trên nền tảng cloud giúp cho khách hàng càng nhanh chóng khởi tạo 1 trang web bán hàng mới đồng thời không phải lo về các vấn đề chuẩn bị môi trường cũng như phương thức cài đặt. Việc triển khai trên Cloud này sẽ được thực hiện ở thị trường Nhật Bản trước, chúng tôi sẽ thông báo đến quý khách hàng chi tiết về kế hoạch triển khai ở Việt Nam trong thời gian sớm nhất.
+&lt;/p&gt;</content><author><name></name></author><summary type="html">Ra đời từ năm 2006, EC-CUBE hiện là platform thương mại điển tử mã nguồn mở số 1 tại thị trường Nhật Bản với hơn 30.000 chủ shop đang sử dụng, và hơn 100 đối tác phát triển. Sau thời gian chỉ tập trung vào thị trường nội địa, EC-CUBE đang mong muốn phát triển và mở rộng ra thị trường thế giới, công ty đã tiến hành nghiên cứu, đánh giá và nhận thấy tiềm năng phát triển của thị trường thương mại điện tử Việt Nam, đặc biệt là số lượng khách hàng có thẻ tín dụng đang tăng và sẵn sàng thanh toán online.</summary></entry></feed>

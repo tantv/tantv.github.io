@@ -13,7 +13,7 @@ permalink: /contact/
     </div>
 </section>
 
-<section class="contact_info_area sec_pad bg_color">
+<section class="contact_info_area sec_pad">
     <div class="container">
         <div class="row">
             <div class="col-lg-3 pr-0">

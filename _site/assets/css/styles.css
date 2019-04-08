@@ -5124,7 +5124,7 @@ a, .btn, button {
 
 .mapbox {
   height: 400px;
-  box-shadow: 0px 3px 4px 0px rgba(12, 0, 46, 0.05);
+  box-shadow: 0px 0 0px 1px #eee;
   border: 10px solid #fff; }
 
 #mapBox {
@@ -5132,25 +5132,36 @@ a, .btn, button {
 
 .text_box {
   margin-bottom: 30px; }
-  .text_box input[type="text"], .text_box textarea, .text_box input[type="password"] {
+  .text_box input[type="text"],
+  .text_box textarea,
+  .text_box input[type="password"] {
     font: 300 15px/60px "Roboto", sans-serif;
     color: #222d39;
     height: 60px;
     border-radius: 4px;
     background-color: white;
-    box-shadow: 0px 2px 4px 0px rgba(12, 0, 46, 0.04);
     width: 100%;
-    border: 1px solid #fff;
+    border: 1px solid #eee;
     padding-left: 30px; }
-    .text_box input[type="text"].placeholder, .text_box textarea.placeholder, .text_box input[type="password"].placeholder {
+    .text_box input[type="text"].placeholder,
+    .text_box textarea.placeholder,
+    .text_box input[type="password"].placeholder {
       color: #9ca3b9; }
-    .text_box input[type="text"]:-moz-placeholder, .text_box textarea:-moz-placeholder, .text_box input[type="password"]:-moz-placeholder {
+    .text_box input[type="text"]:-moz-placeholder,
+    .text_box textarea:-moz-placeholder,
+    .text_box input[type="password"]:-moz-placeholder {
       color: #9ca3b9; }
-    .text_box input[type="text"]::-moz-placeholder, .text_box textarea::-moz-placeholder, .text_box input[type="password"]::-moz-placeholder {
+    .text_box input[type="text"]::-moz-placeholder,
+    .text_box textarea::-moz-placeholder,
+    .text_box input[type="password"]::-moz-placeholder {
       color: #9ca3b9; }
-    .text_box input[type="text"]::-webkit-input-placeholder, .text_box textarea::-webkit-input-placeholder, .text_box input[type="password"]::-webkit-input-placeholder {
+    .text_box input[type="text"]::-webkit-input-placeholder,
+    .text_box textarea::-webkit-input-placeholder,
+    .text_box input[type="password"]::-webkit-input-placeholder {
       color: #9ca3b9; }
-    .text_box input[type="text"]:focus, .text_box textarea:focus, .text_box input[type="password"]:focus {
+    .text_box input[type="text"]:focus,
+    .text_box textarea:focus,
+    .text_box input[type="password"]:focus {
       border-color: #f2effc;
       box-shadow: 0px 10px 14px 0px rgba(12, 0, 46, 0.06);
       outline: none; }
@@ -7095,6 +7106,25 @@ input[type=number]::-webkit-inner-spin-button {
 /* Blog */
 .blog-recent-img {
   max-width: 90px; }
+
+/* Social */
+.social-template {
+  margin-bottom: 0; }
+  .social-template li {
+    display: inline-block; }
+  .social-template span {
+    display: none; }
+
+.post_share .social-template span {
+  display: inline-block; }
+.post_share .social-template li.vm {
+  display: none; }
+.post_share .social-template li + li {
+  margin-left: 15px; }
+
+/* .action_area_two */
+.action_area_two {
+  background: none; }
 
 /* Footer */
 .custom_footer_bottom {

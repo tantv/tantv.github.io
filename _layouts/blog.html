@@ -21,44 +21,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8">
-                    {{content}}
-
-                    <ul class="list-unstyled page-numbers shop_page_number text-left d-flex justify-content-between">
-                        <li>
-                            {% for post in site.posts %}
-                                {% if prev %}
-                                    <a href="{{post.url}}" class="d-block text-left">
-                                        <span class="page-numbers d-inline-block mb-2">
-                                            <i class="ti-arrow-left"></i>
-                                        </span>
-                                        <p>{{post.title}}</p>
-                                    </a>
-                                {% endif %}
-                                {% assign prev = false %}
-                                {% if post.id == page.id %}
-                                    {% assign prev = true %}
-                                {% endif %}
-                            {% endfor %}
-                        </li>
-                        <li>
-                            {% for post in site.posts reversed %}
-                                {% if next %}
-                                    <a href="{{post.url}}" class="d-block text-right">
-                                        <span class="page-numbers d-inline-block mb-2">
-                                            <i class="ti-arrow-right"></i>
-                                        </span>
-                                        <p>{{post.title}}</p>
-                                    </a>
-                                {% break %}
-                                {% endif %}
-                                {% assign next = false %}
-                                {% if post.id == page.id %}
-                                    {% assign next = true %}
-                                {% endif %}
-                            {% endfor %}
-                        </li>
-                    </ul>
-                    
+                    {{content}}                    
                 </div>
 
                 <div class="col-lg-4">

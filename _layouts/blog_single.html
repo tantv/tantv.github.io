@@ -1,0 +1,20 @@
+---
+layout: blog
+---
+
+<div class="blog_single">
+  <img class="img-fluid" src="{{page.featured-img}}" alt="">
+  <div class="blog_content">
+      <div class="post_date">
+          <h2>{{ page.date | date: '%d' }} <span>{{ page.date | date: '%B' }}</span></h2>
+      </div>
+      <h5 class="f_p f_size_20 f_500 t_color mb-30 mt-3">{{ page.title }}</h5>
+        {{content}}
+      <div class="post_share">
+          <div class="post-nam"> Share: </div>
+          {% include social.html social-class="flex list-unstyled" %}
+      </div>
+  </div>
+</div>
+
+{% include next_prev_paging.html %}
