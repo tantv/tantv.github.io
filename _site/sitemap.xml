@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/blog/2019/03/01/welcome-to-ec-cube.html</loc>
+<lastmod>2019-03-01T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2019/03/06/ec-cube-release.html</loc>
+<lastmod>2019-03-06T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html</loc>
+<lastmod>2019-03-20T00:00:00+07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/eccube/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/faq/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/team/</loc>
+</url>
+</urlset>
