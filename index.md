@@ -123,11 +123,10 @@ active: home
                     <div class="agency_featured_content pr_70 pl_70 wow fadeInLeft" data-wow-delay="0.6s">
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
                         <img class="number" src="/assets/img/cloud/icon01.png" alt="">
-                        <h3><span class="text-primary">Application</span></h3>
-                        <p>Please fill in the required information in the special form and apply.</p>
-                        <p>Please fill in the required information in the special form and apply.</p>
-                        <p>Please fill in the required information in the special form and apply.</p>
-                        <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
+                        <h3><span class="text-primary">Gởi yêu cầu</span></h3>
+                        <p>Vui lòng điền thông tin cần thiết vào mẫu <a href="/contact" title="Liên hệ chúng tôi">sau</a>, cùng với các yêu cầu và ngân sách mong muốn của bạn.</p>
+                        <p>Chúng tôi sẽ lắng nghe mong muốn của bạn, tóm tắt các yêu cầu và đưa ra báo giá.</p>
+                        <a href="/contact" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -141,11 +140,9 @@ active: home
                     <div class="agency_featured_content pl_100 wow fadeInRight" data-wow-delay="0.5s">
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
                         <img class="number" src="/assets/img/cloud/icon02.png" alt="">
-                        <h3>SHOP environment provides</h3>
-                        <p>Login information will be sent to the registered email address.</p>
-                        <p>Login information will be sent to the registered email address.</p>
-                        <p>Login information will be sent to the registered email address.</p>
-                        <a href="#" class="icon mt_30"><i class="ti-arrow-right"></i></a>
+                        <h3><span class="text-primary">Cung cấp thông tin</span></h3>
+                        <p>Chúng tôi sẽ xây dựng cửa hàng online theo yêu cầu của bạn. Và mọi thông tin đăng nhập sẽ được gửi đến địa chỉ email mà bạn đã đăng ký.</p>
+                        <a href="/contact" class="icon mt_30"><i class="ti-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -159,11 +156,16 @@ active: home
                     <div class="agency_featured_content pr_70 pl_70 wow fadeInLeft" data-wow-delay="0.5s">
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
                         <img class="number" src="/assets/img/cloud/icon3.png" alt="">
-                        <h3>Start of use</h3>
-                        <p>Please log in to the management screen and start using it.</p>
-                        <p>Please log in to the management screen and start using it.</p>
-                        <p>Please log in to the management screen and start using it.</p>
-                        <a href="#" class="btn_hover agency_banner_btn mt_30">Bắt đầu ngay hôm nay</a>
+                        <h3><span class="text-primary">Bắt đầu sử dụng</span></h3>
+                        <p>Vui lòng đăng nhập vào màn hình quản lý và bắt đầu sử dụng nó.</p>
+                        <div class="job_deatails_content pb-0">
+                            <ul class="list-unstyled mb-0">
+                                <li class="mb-2"><i class="ti-arrow-right"></i><span class="main_color">Cài đặt phương thức thanh toán</span> - Sử dụng cổng thanh toán OnePAY hoặc Sacombank cho cửa hàng của bạn.</li>
+                                <li class="mb-2"><i class="ti-arrow-right"></i><span class="main_color">Tùy chỉnh giao diện</span> - Tự do thiết kế cửa hàng online độc nhất theo ý của bạn</li>
+                                <li class="mb-2"><i class="ti-arrow-right"></i><span class="main_color">Đăng ký và cài đặt sản phẩm</span> - Thiết lập các thông tin cơ bản cho sản phẩm của bạn theo hướng dẫn của giao diện</li>
+                            </ul>
+                        </div>
+                        <a href="/contact" class="btn_hover agency_banner_btn mt_30">Bắt đầu ngay hôm nay</a>
                     </div>
                 </div>
             </div>

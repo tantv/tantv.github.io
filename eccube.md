@@ -274,20 +274,7 @@ active: eccube
                                   </div>
                                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion-home">
                                       <div class="card-body">
-                                          Vui lòng liên hệ với chúng tôi tại địa chỉ eccubedotvn@gmail.com hoặc số điện thoại 097 9244 937, cùng với các yêu cầu và ngân sách mong muốn của bạn.
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="card">
-                                  <div class="card-header" id="headingTwo">
-                                      <h5 class="mb-0">
-                                          <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                          Bước 2 - Lắng Nghe & Ước Tính<i class="ti-plus"></i><i class="ti-minus"></i>
-                                  </button>
-                                      </h5>
-                                  </div>
-                                  <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion-home">
-                                      <div class="card-body">
+                                          Vui lòng liên hệ với chúng tôi tại địa chỉ eccubedotvn@gmail.com hoặc số điện thoại 097 9244 937, cùng với các yêu cầu và ngân sách mong muốn của bạn.<br>
                                           Chúng tôi sẽ lắng nghe mong muốn của bạn, tóm tắt các yêu cầu và đưa ra báo giá.
                                       </div>
                                   </div>
@@ -296,13 +283,13 @@ active: eccube
                                   <div class="card-header" id="headingThree">
                                       <h5 class="mb-0">
                                           <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                          Bước 3 - Tạo Cửa Hàng Online<i class="ti-plus"></i><i class="ti-minus"></i>
+                                          Bước 2 - Tạo Cửa Hàng Online<i class="ti-plus"></i><i class="ti-minus"></i>
                                   </button>
                                       </h5>
                                   </div>
                                   <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion-home">
                                       <div class="card-body">
-                                          Chúng tôi sẽ sẽ xây dựng cửa hàng online theo yêu cầu của bạn.
+                                          Chúng tôi sẽ xây dựng cửa hàng online theo yêu cầu của bạn.
                                       </div>
                                   </div>
                               </div>
@@ -310,7 +297,7 @@ active: eccube
                                   <div class="card-header" id="headingfour">
                                       <h5 class="mb-0">
                                           <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
-                                          Bước 4 - Ra Mắt Cửa Hàng Online<i class="ti-plus"></i><i class="ti-minus"></i>
+                                          Bước 3 - Ra Mắt Cửa Hàng Online<i class="ti-plus"></i><i class="ti-minus"></i>
                                   </button>
                                       </h5>
                                   </div>

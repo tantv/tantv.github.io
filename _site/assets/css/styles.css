@@ -2976,10 +2976,8 @@ a, .btn, button {
   padding-top: 120px; }
 
 .app_service_info {
-  margin-bottom: -90px;
   position: relative;
-  z-index: 2;
-  overflow: hidden; }
+  z-index: 2; }
 
 .app_service_item {
   border: 1px solid #f4f4f9;
@@ -7095,6 +7093,71 @@ input[type=number]::-webkit-inner-spin-button {
   color: #23b1fe; }
 .footer_dark_ten .dark_f_bottom .f_menu li a:hover, .footer_dark_ten .dark_f_bottom a {
   color: #23b1fe; }
+
+/* Template 
+<div class="typing-slider">
+  <p>Text slider with</p>
+  <p>typing animation effect</p>
+  <p>in pure CSS.</p>
+</div>
+*/
+@keyframes cursor {
+  from, to {
+    border-color: transparent; }
+  50% {
+    border-color: #fff; } }
+@keyframes typing {
+  from {
+    width: 100%; }
+  90%, to {
+    width: 0; } }
+@keyframes slide {
+  33.3333333333% {
+    font-size: 3rem;
+    letter-spacing: 3px; }
+  to {
+    font-size: 0;
+    letter-spacing: 0; } }
+.typing-slider {
+  font-weight: bold;
+  text-align: center;
+  white-space: nowrap; }
+
+.typing-slider span {
+  position: relative;
+  display: inline;
+  font-size: 0;
+  text-transform: uppercase;
+  letter-spacing: 0;
+  animation: slide 1500s step-start infinite; }
+
+.typing-slider span::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-left: 3px solid #fff;
+  background-color: #fff;
+  animation: typing 500s infinite, cursor 1s infinite; }
+
+.typing-slider span:nth-child(1) {
+  animation-delay: 0s; }
+  .typing-slider span:nth-child(1)::after {
+    animation-delay: 0s;
+    animation-timing-function: steps(16), step-end; }
+
+.typing-slider span:nth-child(2) {
+  animation-delay: 500s; }
+  .typing-slider span:nth-child(2)::after {
+    animation-delay: 500s;
+    animation-timing-function: steps(23), step-end; }
+
+.typing-slider span:nth-child(3) {
+  animation-delay: 1000s; }
+  .typing-slider span:nth-child(3)::after {
+    animation-delay: 1000s;
+    animation-timing-function: steps(12), step-end; }
 
 /* Header */
 .header_area_six {

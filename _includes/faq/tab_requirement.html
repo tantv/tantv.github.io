@@ -1,0 +1,126 @@
+<div class="tab-pane fade" id="care" role="tabpanel" aria-labelledby="care-tab">
+  <h3 class="f_p f_size_22 f_500 t_color3 mb_20">Yêu cầu hệ thống dành cho EC-CUBE version 4.0</h3>
+  <div id="accordion6">
+      <div class="card">
+          <div class="card-header" id="headingRequirement">
+              <h5 class="mb-0">
+                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseRequirement" aria-expanded="true" aria-controls="collapseRequirement">
+                        Yêu cầu hệ thống<i class="ti-plus"></i><i class="ti-minus"></i>
+                </button>
+              </h5>
+          </div>
+          <div id="collapseRequirement" class="collapse show" aria-labelledby="headingRequirement" data-parent="#accordion6">
+              <div class="card-body">
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th scope="col">Phân Loại</th>
+                                <th scope="col">Phần Mềm</th>
+                                <th scope="col">Phiên Bản</th>
+                                <th scope="col">Xác Nhận Hoạt Động</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">WEB Server</th>
+                                <td>Apache</td>
+                                <td>
+                                    2.4.x <br>
+                                    <small>(Yêu cầu mod_rewrite / mod_ssl)</small>
+                                </td>
+                                <td>2.4.6</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Ngôn Ngữ</th>
+                                <td>PHP</td>
+                                <td>7.1～</td>
+                                <td>7.1.20</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Database</th>
+                                <td>PostgreSQL</td>
+                                <td>
+                                    9.2.x / 10.x <br>
+                                    <small>(Yêu cầu quyền tham chiếu đến bảng pg_settings)</small>
+                                </td>
+                                <td>9.6.6</td>
+                            </tr>
+                            <tr>
+                                <th scope="row" class="border-top-0"></th>
+                                <td>MySQL</td>
+                                <td>
+                                    5.5.x / 5.6.x / 5.7.x <br>
+                                    <small>(Yêu cầu InnoDB Engine)</small>
+                                </td>
+                                <td>5.6.33</td>
+                            </tr>
+                            <tr>
+                                <th scope="row" class="border-top-0"></th>
+                                <td>SQLite (Chuyên Dùng Cho Lập Trình)</td>
+                                <td>
+                                        3.x
+                                </td>
+                                <td>-</td>
+                            </tr>
+                        </tbody>
+                    </table>
+              </div>
+          </div>
+      </div>
+      <div class="card">
+          <div class="card-header" id="headingLibrary">
+              <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseLibrary" aria-expanded="false" aria-controls="collapseLibrary">
+                        Thư viện PHP bắt buộc<i class="ti-plus"></i><i class="ti-minus"></i>
+                </button>
+              </h5>
+          </div>
+          <div id="collapseLibrary" class="collapse" aria-labelledby="headingLibrary" data-parent="#accordion6">
+              <div class="card-body">
+                    <div class="job_deatails_content pb-0">
+                        <ul class="list-unstyled mb-0">
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>pgsql / mysqli (Tùy thuộc vào database được sử dụng)</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>pdo_pgsql / pdo_mysql / pdo_sqlite (Tùy thuộc vào database được sử dụng)</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>pdo</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>phar</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>mbstring</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>zlib</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>ctype</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>session</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>JSON</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>xml</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>libxml</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>OpenSSL</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>zip</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>cURL</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>fileinfo</li>
+                            <li class="mb-2"><i class="ti-arrow-right main_color"></i>intl</li>
+                        </ul>
+                    </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="card">
+        <div class="card-header" id="headingLibSuggest">
+            <h5 class="mb-0">
+                <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseLibSuggest" aria-expanded="false" aria-controls="collapseLibSuggest">
+                        Thư viện PHP đề xuất<i class="ti-plus"></i><i class="ti-minus"></i>
+                </button>
+            </h5>
+        </div>
+        <div id="collapseLibSuggest" class="collapse" aria-labelledby="headingLibSuggest" data-parent="#accordion6">
+            <div class="card-body">
+                <div class="job_deatails_content pb-0">
+                    <ul class="list-unstyled mb-0">
+                        <li class="mb-2"><i class="ti-arrow-right main_color"></i>hash</li>
+                        <li class="mb-2"><i class="ti-arrow-right main_color"></i>APCu / WinCache (Tùy thuộc vào môi trường sử dụng)</li>
+                        <li class="mb-2"><i class="ti-arrow-right main_color"></i>Zend OPcache</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  </div>
+</div>
