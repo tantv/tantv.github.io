@@ -19,7 +19,7 @@ featured-img: /assets/img/blog/eccube-release.png
 </ul>
 
 <p class="f_300 mb-30">
-    Nền tảng thương mại điện tử EC-CUBE được phát triển tại Nhật Bản bởi công ty Lockon từ năm 2006 và triển khai ở Việt Nam bởi công ty TPS. EC-CUBE mang đến giải pháp kinh doanh cho thị trường bán hàng online, với các ưu điểm:
+    Nền tảng thương mại điện tử EC-CUBE được phát triển tại Nhật Bản bởi công ty Lockon từ năm 2006 và triển khai bởi một công ty đối tác ở Việt Nam. EC-CUBE mang đến giải pháp kinh doanh cho thị trường bán hàng online, với các ưu điểm:
 </p>
 
 <div class="job_deatails_content">
