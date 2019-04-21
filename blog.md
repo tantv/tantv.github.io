@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: blog
-title: Thông tin mới nhất
+title: Cập nhật các thông tin và sự kiện mới nhất
 permalink: /blog/
 active: blog
 ---

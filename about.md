@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EC-DEV VN
+title: Về EC-DEV VN
 permalink: /about/
 active: about
 ---

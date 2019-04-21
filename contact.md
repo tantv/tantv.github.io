@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Us
+title: Liên hệ chúng tôi
 permalink: /contact/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EC-DEV VN
+title: Trang chủ EC-DEV VN
 active: home
 ---
 

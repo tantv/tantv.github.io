@@ -1,6 +1,6 @@
 ---
 layout: home
-title: EC-CUBE
+title: Về EC-CUBE
 permalink: /eccube/
 active: eccube
 ---

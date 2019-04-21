@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FAQ
+title: Các câu hỏi thường gặp
 permalink: /faq/
 active: faq
 ---
