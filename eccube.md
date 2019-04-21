@@ -274,7 +274,7 @@ active: eccube
                                   </div>
                                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion-home">
                                       <div class="card-body">
-                                          Vui lòng liên hệ với chúng tôi tại địa chỉ contact@ec-cube.vn hoặc số điện thoại 028 3991 2068, cùng với các yêu cầu và ngân sách mong muốn của bạn.
+                                          Vui lòng liên hệ với chúng tôi tại địa chỉ eccubedotvn@gmail.com hoặc số điện thoại 097 9244 937, cùng với các yêu cầu và ngân sách mong muốn của bạn.
                                       </div>
                                   </div>
                               </div>
