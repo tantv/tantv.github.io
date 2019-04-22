@@ -1,0 +1,11 @@
+- name: Product Name 1
+  price: 100.00
+
+- name: Product Name 2
+  price: 200.00
+  sale: 160.00
+
+- name: Product Name 3
+  price: 300.00
+  sale: 260.00
+
