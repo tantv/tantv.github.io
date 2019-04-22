@@ -6,7 +6,7 @@ date:   2019-03-06
 categories: blog
 active: blog
 excerpt: EC-CUBE với phiên bản Tiếng Việt và Plugin cổng thanh toán Onepay sẽ chính thức được release và có thể tải về miễn phí tại đây.
-featured-img: /assets/img/blog/eccube-release.png
+image: /assets/img/blog/eccube-release.png
 ---
 
 <p class="f_300 mb-30">

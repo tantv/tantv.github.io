@@ -5,7 +5,7 @@ date:   2019-03-20
 categories: blog
 active: blog
 excerpt: Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.
-featured-img: /assets/img/blog/tmdt.png
+image: /assets/img/blog/tmdt.png
 ---
 
 <p class="f_300 mb-30">

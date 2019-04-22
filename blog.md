@@ -10,7 +10,7 @@ active: blog
 
 {% for post in site.posts %}
   <div class="blog_list_item mb_50">
-      <img class="img-fluid" src="{{post.featured-img}}" alt="">
+      <img class="img-fluid" src="{{post.image}}" alt="">
       <div class="blog_content">
           <div class="post_date">
               <h2>{{ post.date | date: '%d' }} <span>{{ post.date | date: '%B' }}</span></h2>
