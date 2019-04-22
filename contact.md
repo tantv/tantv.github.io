@@ -24,8 +24,7 @@ permalink: /contact/
                 <div class="contact_info_item">
                     <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Thông tin liên hệ</h6>
                     <p class="f_300 f_size_15"><span class="f_400 t_color3">Điện thoại:</span> <a href="#">{{ site.data.ecdev.phone }}</a></p>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="#">{{ site.data.ecdev.phone }}</a></p>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:{{ site.data.ecdev.phone }}">{{ site.data.ecdev.phone }}</a></p>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:{{ site.data.ecdev.email }}">{{ site.data.ecdev.email }}</a></p>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1">

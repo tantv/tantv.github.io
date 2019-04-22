@@ -274,7 +274,7 @@ active: eccube
                                   </div>
                                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion-home">
                                       <div class="card-body">
-                                          Vui lòng liên hệ với chúng tôi tại địa chỉ {{ site.data.ecdev.phone }} hoặc số điện thoại {{ site.data.ecdev.phone }}, cùng với các yêu cầu và ngân sách mong muốn của bạn.<br>
+                                          Vui lòng liên hệ với chúng tôi tại địa chỉ <a href="/contact" title="Liên hệ chúng tôi">{{ site.data.ecdev.email }}</a> hoặc số điện thoại <span class="main_color">{{ site.data.ecdev.phone }}</span>, cùng với các yêu cầu và ngân sách mong muốn của bạn.<br>
                                           Chúng tôi sẽ lắng nghe mong muốn của bạn, tóm tắt các yêu cầu và đưa ra báo giá.
                                       </div>
                                   </div>
