@@ -19,18 +19,18 @@ permalink: /contact/
             <div class="col-lg-3 pr-0">
                 <div class="contact_info_item">
                     <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Địa chỉ văn phòng</h6>
-                    <p class="f_300 f_size_15">Chợ, Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh 700000</p>
+                    <p class="f_300 f_size_15">{{ site.data.ecdev.address }}</p>
                 </div>
                 <div class="contact_info_item">
                     <h6 class="f_p f_size_20 t_color3 f_500 mb_20">Thông tin liên hệ</h6>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Điện thoại:</span> <a href="tel:0979244937">(+084) 097 9244 937</a></p>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="tel:0979244937">(+084) 097 9244 937</a></p>
-                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:eccubedotvn@gmail.com">eccubedotvn@gmail.com</a></p>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Điện thoại:</span> <a href="#">{{ site.data.ecdev.phone }}</a></p>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Fax:</span> <a href="#">{{ site.data.ecdev.phone }}</a></p>
+                    <p class="f_300 f_size_15"><span class="f_400 t_color3">Email:</span> <a href="mailto:{{ site.data.ecdev.phone }}">{{ site.data.ecdev.phone }}</a></p>
                 </div>
             </div>
             <div class="col-lg-8 offset-lg-1">
                 <div class="mapbox">
-                    <iframe width="100%" height="380" id="gmap_canvas" src="https://maps.google.com/maps?q=ben%20thanh%20market&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                    <iframe width="100%" height="380" id="gmap_canvas" src="{{ site.data.ecdev.ggAddress }}" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                 </div>
             </div>
         </div>

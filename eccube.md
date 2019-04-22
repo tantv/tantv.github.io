@@ -224,27 +224,27 @@ active: eccube
             <div class="app_screenshot_slider owl-carousel">
                 <div class="item">
                     <div class="screenshot_img">
-                        <a href="img/screenshot1.png" class="image-link" target="_blank"><img src="/assets/img/screenshot1.png" alt=""></a>
+                        <a href="/assets/img/screenshot1.png" class="image-link" target="_blank"><img src="/assets/img/screenshot1.png" alt=""></a>
                     </div>
                 </div>
                 <div class="item">
                     <div class="screenshot_img">
-                        <a href="img/screenshot2.png" class="image-link" target="_blank"><img src="/assets/img/screenshot2.png" alt=""></a>
+                        <a href="/assets/img/screenshot2.png" class="image-link" target="_blank"><img src="/assets/img/screenshot2.png" alt=""></a>
                     </div>
                 </div>
                 <div class="item">
                     <div class="screenshot_img">
-                        <a href="img/screenshot3.png" class="image-link" target="_blank"><img src="/assets/img/screenshot3.png" alt=""></a>
+                        <a href="/assets/img/screenshot3.png" class="image-link" target="_blank"><img src="/assets/img/screenshot3.png" alt=""></a>
                     </div>
                 </div>
                 <div class="item">
                     <div class="screenshot_img">
-                        <a href="img/screenshot4.png" class="image-link" target="_blank"><img src="/assets/img/screenshot4.png" alt=""></a>
+                        <a href="/assets/img/screenshot4.png" class="image-link" target="_blank"><img src="/assets/img/screenshot4.png" alt=""></a>
                     </div>
                 </div>
                 <div class="item">
                     <div class="screenshot_img">
-                        <a href="img/screenshot5.png" class="image-link" target="_blank"><img src="/assets/img/screenshot5.png" alt=""></a>
+                        <a href="/assets/img/screenshot5.png" class="image-link" target="_blank"><img src="/assets/img/screenshot5.png" alt=""></a>
                     </div>
                 </div>
             </div>
@@ -274,7 +274,7 @@ active: eccube
                                   </div>
                                   <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion-home">
                                       <div class="card-body">
-                                          Vui lòng liên hệ với chúng tôi tại địa chỉ eccubedotvn@gmail.com hoặc số điện thoại 097 9244 937, cùng với các yêu cầu và ngân sách mong muốn của bạn.<br>
+                                          Vui lòng liên hệ với chúng tôi tại địa chỉ {{ site.data.ecdev.phone }} hoặc số điện thoại {{ site.data.ecdev.phone }}, cùng với các yêu cầu và ngân sách mong muốn của bạn.<br>
                                           Chúng tôi sẽ lắng nghe mong muốn của bạn, tóm tắt các yêu cầu và đưa ra báo giá.
                                       </div>
                                   </div>

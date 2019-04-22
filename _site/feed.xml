@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-21T23:58:33+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">EC-CUBE - Nền tảng thương mại điện tử giúp bạn đột phá trong kinh doanh và bán lẻ ở Việt Nam</title><subtitle>Tạo cửa hàng thương mại điện tử của bạn với EC-CUBE, nền tảng thương mại điện tử tùy biến nhất để xây dựng doanh nghiệp trực tuyến của bạn. Tích hợp đầy đủ các tính năng của một trang thương mại điện tử cùng với hơn 800 plugins và các mẫu thiết kế có sẵn. Tìm hiểu thêm về EC-CUBE.</subtitle><entry><title type="html">Tại sao phải có website thương mại điện tử</title><link href="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html" rel="alternate" type="text/html" title="Tại sao phải có website thương mại điện tử" /><published>2019-03-20T00:00:00+07:00</published><updated>2019-03-20T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html">&lt;p class=&quot;f_300 mb-30&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-22T10:33:33+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">EC-CUBE - Nền tảng thương mại điện tử giúp bạn đột phá trong kinh doanh và bán lẻ ở Việt Nam</title><subtitle>Tạo cửa hàng thương mại điện tử của bạn với EC-CUBE, nền tảng thương mại điện tử tùy biến nhất để xây dựng doanh nghiệp trực tuyến của bạn. Tích hợp đầy đủ các tính năng của một trang thương mại điện tử cùng với hơn 800 plugins và các mẫu thiết kế có sẵn. Tìm hiểu thêm về EC-CUBE.</subtitle><entry><title type="html">Tại sao phải có website thương mại điện tử</title><link href="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html" rel="alternate" type="text/html" title="Tại sao phải có website thương mại điện tử" /><published>2019-03-20T00:00:00+07:00</published><updated>2019-03-20T00:00:00+07:00</updated><id>http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt</id><content type="html" xml:base="http://localhost:4000/blog/2019/03/20/tai-sao-can-website-tmdt.html">&lt;p class=&quot;f_300 mb-30&quot;&gt;
     Trong thời kỳ internet bùng nổ, thay vì các phương pháp thủ công xu hướng người dùng tìm kiếm thông tin trên mạng hiện nay là phổ biến, thiết kế website thương mại điện tử sẽ giúp doanh nghiệp tăng khả năng tương tác với khách hàng tối ưu nhất.
 &lt;/p&gt;
 
@@ -19,28 +19,28 @@
         &lt;div class=&quot;col-12 saas_featured_info&quot;&gt;
             &lt;div class=&quot;row mb_30&quot;&gt;
                 &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                    &lt;div class=&quot;saas_featured_item s_featured_one wow fadeInUp&quot; data-wow-delay=&quot;0.3s&quot; style=&quot;visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_one wow fadeInUp&quot; data-wow-delay=&quot;0.3s&quot;&gt;
                         &lt;i class=&quot;ti-crown f_size_30&quot;&gt;&lt;/i&gt;
                         &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Bộ mặt của doanh nghiệp&lt;/h6&gt;
                         &lt;p class=&quot;mb-0&quot;&gt;Website là nơi phản ánh hình hảnh của doanh nghiệp đến với khách hàng. Một website chỉnh chu phản ánh một doanh nghiệp chuyên nghiệp.&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                    &lt;div class=&quot;saas_featured_item s_featured_two wow fadeInUp&quot; data-wow-delay=&quot;0.5s&quot; style=&quot;visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_two wow fadeInUp&quot; data-wow-delay=&quot;0.5s&quot;&gt;
                         &lt;i class=&quot;ti-cup f_size_30&quot;&gt;&lt;/i&gt;
                         &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Nâng tầm thương hiệu&lt;/h6&gt;
                         &lt;p class=&quot;mb-0&quot;&gt;Một Website chuyên nghiệp, cuốn hút giúp khách hàng có ấn tượng tốt hơn đặt nhiều niềm tin hơn về doanh nghiệp, thương hiệu của bạn được đánh giá cao hơn các đối thủ.&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                    &lt;div class=&quot;saas_featured_item s_featured_three wow fadeInUp&quot; data-wow-delay=&quot;0.7s&quot; style=&quot;visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_three wow fadeInUp&quot; data-wow-delay=&quot;0.7s&quot;&gt;
                         &lt;i class=&quot;ti-user f_size_30&quot;&gt;&lt;/i&gt;
                         &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Khách hàng đang ở trên internet&lt;/h6&gt;
                         &lt;p class=&quot;mb-0&quot;&gt;Khách hàng hiện nay thích ngồi ở nhà lướt web và tìm kiếm mọi thông tin về sản phẩm và dịch vụ họ quan tâm. Nếu không có một website thì quả thật là thiếu sót.&lt;/p&gt;
                     &lt;/div&gt;
                 &lt;/div&gt;
                 &lt;div class=&quot;col-lg-6 col-md-6&quot;&gt;
-                    &lt;div class=&quot;saas_featured_item s_featured_four wow fadeInUp&quot; data-wow-delay=&quot;0.9s&quot; style=&quot;visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;&quot;&gt;
+                    &lt;div class=&quot;saas_featured_item s_featured_four wow fadeInUp&quot; data-wow-delay=&quot;0.9s&quot;&gt;
                         &lt;i class=&quot;ti-server f_size_30&quot;&gt;&lt;/i&gt;
                         &lt;h6 class=&quot;mt_30 mb_20&quot;&gt;Tiết kiệm chi phí nhưng hiệu quả&lt;/h6&gt;
                         &lt;p class=&quot;mb-0&quot;&gt;Website là công cụ nhanh và hiệu quả nhất để bạn tiếp cận với khách hàng trong khi đó chi phí bỏ ra so với các hình thức marketing khác là rất thấp.&lt;/p&gt;

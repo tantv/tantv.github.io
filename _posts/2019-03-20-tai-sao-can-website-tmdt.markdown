@@ -29,28 +29,28 @@ featured-img: /assets/img/blog/tmdt.png
         <div class="col-12 saas_featured_info">
             <div class="row mb_30">
                 <div class="col-lg-6 col-md-6">
-                    <div class="saas_featured_item s_featured_one wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                    <div class="saas_featured_item s_featured_one wow fadeInUp" data-wow-delay="0.3s">
                         <i class="ti-crown f_size_30"></i>
                         <h6 class="mt_30 mb_20">Bộ mặt của doanh nghiệp</h6>
                         <p class="mb-0">Website là nơi phản ánh hình hảnh của doanh nghiệp đến với khách hàng. Một website chỉnh chu phản ánh một doanh nghiệp chuyên nghiệp.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="saas_featured_item s_featured_two wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                    <div class="saas_featured_item s_featured_two wow fadeInUp" data-wow-delay="0.5s">
                         <i class="ti-cup f_size_30"></i>
                         <h6 class="mt_30 mb_20">Nâng tầm thương hiệu</h6>
                         <p class="mb-0">Một Website chuyên nghiệp, cuốn hút giúp khách hàng có ấn tượng tốt hơn đặt nhiều niềm tin hơn về doanh nghiệp, thương hiệu của bạn được đánh giá cao hơn các đối thủ.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="saas_featured_item s_featured_three wow fadeInUp" data-wow-delay="0.7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInUp;">
+                    <div class="saas_featured_item s_featured_three wow fadeInUp" data-wow-delay="0.7s">
                         <i class="ti-user f_size_30"></i>
                         <h6 class="mt_30 mb_20">Khách hàng đang ở trên internet</h6>
                         <p class="mb-0">Khách hàng hiện nay thích ngồi ở nhà lướt web và tìm kiếm mọi thông tin về sản phẩm và dịch vụ họ quan tâm. Nếu không có một website thì quả thật là thiếu sót.</p>
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
-                    <div class="saas_featured_item s_featured_four wow fadeInUp" data-wow-delay="0.9s" style="visibility: visible; animation-delay: 0.9s; animation-name: fadeInUp;">
+                    <div class="saas_featured_item s_featured_four wow fadeInUp" data-wow-delay="0.9s">
                         <i class="ti-server f_size_30"></i>
                         <h6 class="mt_30 mb_20">Tiết kiệm chi phí nhưng hiệu quả</h6>
                         <p class="mb-0">Website là công cụ nhanh và hiệu quả nhất để bạn tiếp cận với khách hàng trong khi đó chi phí bỏ ra so với các hình thức marketing khác là rất thấp.</p>

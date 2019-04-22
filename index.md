@@ -3,7 +3,6 @@ layout: home
 title: Trang chủ EC-DEV VN
 active: home
 ---
-
 <section class="software_banner_area d-flex align-items-center">
     <div class="container">
         <div class="row">
