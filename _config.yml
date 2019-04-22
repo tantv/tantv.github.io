@@ -15,12 +15,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EC-CUBE - Nền tảng thương mại điện tử giúp bạn đột phá trong kinh doanh và bán lẻ ở Việt Nam
+author: EC-DEV VN
+image: /assets/img/ecdev-logo.png
 description: >- # this means to ignore newlines until "baseurl:"
-  Tạo cửa hàng thương mại điện tử của bạn với EC-CUBE, nền tảng thương mại điện tử tùy biến nhất để xây dựng doanh nghiệp trực tuyến của bạn. Tích hợp đầy đủ các tính năng của một trang thương mại điện tử cùng với hơn 800 plugins và các mẫu thiết kế có sẵn. Tìm hiểu thêm về EC-CUBE.
+  Tạo cửa hàng thương mại điện tử của bạn với EC-CUBE, nền tảng thương mại điện tử tùy biến nhất để xây dựng doanh nghiệp trực tuyến của bạn. Tìm hiểu thêm về EC-CUBE.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eccube-vn.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+
+twitter:
+  username: eccubevn
+  card: summary
 
 paginate: 3
 paginate_path: "/blog/page:num/"
