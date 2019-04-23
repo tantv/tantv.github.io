@@ -28,7 +28,7 @@ active: home
     <div class="container">
         <div class="sec_title text-center mb_70 wow fadeInUp" data-wow-delay="0.2s">
             <h2 class="f_p f_size_30 l_height50 f_600 t_color"><span class="f_size_40 text-primary">Tại sao</span> bạn chọn chúng tôi</h2>
-            <p class="f_300 f_size_16">Với đội ngũ chuyên gia tư vấn giàu kinh nghiệm, chúng tôi sẽ giúp bạn xác định cách tiếp cận tốt nhất cho trang thương mại điện tử của mình và xây dựng một website thương mại điện tử mang đậm tính cách cá nhân/doanh nghiệp cho bạn</p>
+            <p class="f_300 f_size_16">Với đội ngũ chuyên gia tư vấn giàu kinh nghiệm sẽ giúp bạn xác định cách tiếp cận tốt nhất cho trang thương mại điện tử của mình <br> và xây dựng một website thương mại điện tử mang đậm tính cách cho doanh nghiệp của bạn</p>
         </div>
         <div class="row saas_service_item">
             <div class="col-lg-6">
@@ -39,8 +39,8 @@ active: home
             <div class="col-lg-6 d-flex align-items-center">
                 <div class="saas_service_content pr_100 wow fadeInRight" data-wow-delay="0.4s">
                     <div class="icon icon_one"><i class="ti-control-shuffle"></i></div>
-                    <h4 class="f_500 f_p t_color">Phát triển cùng đội ngũ EC-CUBE</h4>
-                    <p class="f_p f_300">Chúng tôi có những chuyên gia làm việc lâu năm với EC-CUBE trong việc xây dựng và bảo trì các website thương mại điện tử sử dụng nền tảng EC-CUBE. <br>
+                    <h4 class="f_500 f_p t_color">Phát triển cùng đội ngũ EC-DEV VN</h4>
+                    <p class="f_p f_300">Cùng với những chuyên gia làm việc lâu năm với EC-CUBE trong việc xây dựng và bảo trì các website thương mại điện tử sử dụng nền tảng EC-CUBE. <br>
                     Với kinh nghiệm nhiều năm trên nền tảng EC-CUBE, chúng tôi sẽ giúp đỡ các bạn - các chủ cửa hàng và doanh nghiệp - xây dựng một website thương mai điện tử có đầy đủ các tính năng cơ bản như giỏ hàng, thanh toán online, quản lý sản phầm, tồn kho ... mà sẽ không phải mất nhiều thời gian.</p>
                     <a href="/contact" class="gr_btn"><span class="text">Bắt đầu ngay</span></a>
                 </div>
@@ -77,7 +77,7 @@ active: home
                 <div class="saas_service_content pr_100 wow fadeInRight" data-wow-delay="0.6s">
                     <div class="icon icon_three"><i class="ti-palette"></i></div>
                     <h4 class="f_500 f_p t_color">Vô tư thiết kế website</h4>
-                    <p class="f_p f_300">Thiết kế là điểm khởi đầu của sự tương tác với người dùng, vì vậy chúng tôi sẽ tạo ra các mẫu thiết kế sáng tạo theo yêu cầu để website thương mại điện tử của bạn khác biệt với các đối thủ cạnh tranh.<br> 
+                    <p class="f_p f_300">Thiết kế là điểm khởi đầu của sự tương tác với người dùng, vì vậy EC-DEV VN sẽ tạo ra các mẫu thiết kế sáng tạo theo yêu cầu để website thương mại điện tử của bạn khác biệt với các đối thủ cạnh tranh.<br> 
                     Cho dù bạn đã có sẵn thiết kế hay cần tùy chỉnh lại chúng tôi sẽ giúp bạn xây dựng một website thương mại điện tử hấp dẫn mà không làm mất đi sự tiện lợi khi sử dụng. </p>
                     <a href="/contact" class="gr_btn"><span class="text">Bắt đầu ngay</span></a>
                 </div>
@@ -156,7 +156,7 @@ active: home
                         <div class="dot"><span class="dot1"></span><span class="dot2"></span></div>
                         <img class="number" src="/assets/img/cloud/icon3.png" alt="">
                         <h3><span class="text-primary">Bắt đầu sử dụng</span></h3>
-                        <p>Vui lòng đăng nhập vào màn hình quản lý và bắt đầu sử dụng nó.</p>
+                        <p>Vui lòng đăng nhập vào màn hình quản lý và bắt đầu sử dụng.</p>
                         <div class="job_deatails_content pb-0">
                             <ul class="list-unstyled mb-0">
                                 <li class="mb-2"><i class="ti-arrow-right"></i><span class="main_color">Cài đặt phương thức thanh toán</span> - Sử dụng cổng thanh toán OnePAY hoặc Sacombank cho cửa hàng của bạn.</li>
