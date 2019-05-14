@@ -15,7 +15,7 @@ active: eccube
             <p class="w_color f_p f_size_18">Sáng tạo độc đáo <br>
                 Hệ thống tạo cửa hàng online chính thức có mặt ở Việt Nam</p>
             <div class="action_btn d-flex align-items-center mt_60">
-                <a href="/contact" class="btn_hover agency_banner_btn">Tìm hiểu thêm</a>
+                <a href="/contact" class="btn_hover agency_banner_btn">{{ site.data.ecdev.findMore }}</a>
             </div>
         </div>
     </div>
@@ -43,8 +43,8 @@ active: eccube
                         <img class="icon_img" src="/assets/img/icon1.png" alt="">
                     </div>
                     <h2>Sử dụng miễn phí</h2>
-                    <p>"EC-CUBE" là sản phẩm của công ty cổ phần Lockon được phát hành dưới dạng "Open Source" để ai cũng có thể tải về và sử dụng/ chỉnh sửa hoàn toàn miễn phí</p>
-                    <a href="#" class="btn_hover agency_banner_btn pay_btn pay_btn_two">Tìm hiểu thêm</a>
+                    <p>"EC-CUBE" là sản phẩm của công ty cổ phần Lockon được phát hành dưới dạng "Open Source" để ai cũng có thể tải về và sử dụng chỉnh sửa hoàn toàn miễn phí</p>
+                    <a href="#" class="btn_hover agency_banner_btn pay_btn pay_btn_two">{{ site.data.ecdev.findMore }}</a>
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@ active: eccube
                         Download đột phá <span class="f_size_40 text-primary">1,8</span> triệu lượt
                     </h2>
                     <div class="pb-3"></div>
-                    <a href="#" class="btn_hover agency_banner_btn pay_btn">Tìm hiểu thêm</a>
+                    <a href="#" class="btn_hover agency_banner_btn pay_btn">{{ site.data.ecdev.findMore }}</a>
                 </div>
             </div>
         </div>

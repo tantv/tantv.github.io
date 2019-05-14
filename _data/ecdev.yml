@@ -1,5 +1,13 @@
+# Information
 email: eccubedotvn@gmail.com
-phone: 097 9244 937
+phone: 037 9244 937
 
+# Button text
+startNow:       Bắt đầu ngay 
+contactNow:     Liên hệ ngay
+today:          hôm nay
+findMore:       Tìm hiểu thêm
+
+# Address & google map link
 ggAddress: https://maps.google.com/maps?q=ben%20thanh%20market&t=&z=15&ie=UTF8&iwloc=&output=embed
 address: Chợ Bến Thành, Lê Lợi, Phường Bến Thành, Quận 1, Hồ Chí Minh 700000
